@@ -1,0 +1,742 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Attentional Encoder Network for Targeted Sentiment Classification. Youwei Song, Jiahai Wang, Tao Jiang, Zhiyue Liu, Yanghui Rao. (CoRR 2019) [paper]",
+          "description": "[code] - AEN-BERT",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-06-12T21:30:16Z",
+            "owner": "songyouwei",
+            "repo": "ABSA-PyTorch",
+            "stars": 2114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LCF: A Local Context Focus Mechanism for Aspect-Based Sentiment Classification. Biqing Zeng, Heng Yang 2, Ruyang Xu, Wu Zhou, Xuli Han (Applied Sciences 2019) [paper]",
+          "description": "[code] - LCF-BERT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-13T00:17:17Z",
+            "owner": "yangheng95",
+            "repo": "PyABSA",
+            "stars": 1101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Utilizing BERT for Aspect-Based Sentiment Analysis via Constructing Auxiliary Sentence. Chi Sun, Luyao Huang, Xipeng Qiu. (NAACL 2019) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-04T00:27:34Z",
+            "owner": "HSLCY",
+            "repo": "ABSA-BERT-pair",
+            "stars": 520
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis. Hu Xu, Bing Liu, Lei Shu, Philip S. Yu. (NAACL 2019) [paper]",
+          "description": "[code] - BERT-PT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-02-05T05:58:43Z",
+            "owner": "howardhsu",
+            "repo": "BERT-for-RRC-ABSA",
+            "stars": 462
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aspect-based Sentiment Classification with Aspect-specific Graph Convolutional Networks. Chen Zhang, Qiuchi Li, Dawei Song. (EMNLP 2019) [paper]",
+          "description": "[code] - ASGCN",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-03-29T04:42:18Z",
+            "owner": "GeneZC",
+            "repo": "ASGCN",
+            "stars": 294
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Multi-task Learning Model for Chinese-oriented Aspect Polarity Classification and Aspect Term Extraction. Heng Yang, Biqing Zeng, Jianhao Yang, Youwei Song, Ruyang Xu. (CoRR 2019) [paper]",
+          "description": "[code] - LCF-ATEPC",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-06-05T00:18:16Z",
+            "owner": "yangheng95",
+            "repo": "LCF-ATEPC",
+            "stars": 199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Adapt or Get Left Behind: Domain Adaptation through BERT Language Model Finetuning for Aspect-Target Sentiment Classification. Alexander Rietzler, Sebastian Stabinger, Paul Opitz, Stefan Engl. (LREC 2020) [paper]",
+          "description": "[code] - BERT-ADA",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-14T22:06:22Z",
+            "owner": "deepopinion",
+            "repo": "domain-adapted-atsc",
+            "stars": 187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Exploiting Document Knowledge for Aspect-level Sentiment Classification. Ruidan He, Wee Sun Lee, Hwee Tou Ng, Daniel Dahlmeier. (ACL 2018) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-06-22T09:49:12Z",
+            "owner": "ruidan",
+            "repo": "Aspect-level-sentiment",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Transformation Networks for Target-Oriented Sentiment Classification. Xin Li, Lidong Bing, Wai Lam, Bei Shi. (ACL 2018) [paper]",
+          "description": "[code] - TNet",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-07-22T02:42:18Z",
+            "owner": "lixin4ever",
+            "repo": "TNet",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aspect Based Sentiment Analysis with Gated Convolutional Networks. Wei Xue, Tao Li. (ACL 2018) [paper]",
+          "description": "[code] - GCAE",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-20T10:25:45Z",
+            "owner": "wxue004cs",
+            "repo": "GCAE",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Recurrent Attention Network on Memory for Aspect Sentiment Analysis. Peng Chen, Zhongqian Sun, Lidong Bing, Wei Yang. (EMNLP 2017) [paper]",
+          "description": "[unofficial code] - RAM",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-06-05T05:10:39Z",
+            "owner": "lpq29743",
+            "repo": "RAM",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Recurrent Entity Networks with Delayed Memory Update for Targeted Aspect-Based Sentiment Analysis. Fei Liu, Trevor Cohn, Timothy Baldwin. (NAACL 2018) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-10-30T16:37:43Z",
+            "owner": "liufly",
+            "repo": "delayed-memory-update-entnet",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IARM: Inter-Aspect Relation Modeling with Memory Networks in Aspect-Based Sentiment Analysis. Navonil Majumder, Soujanya Poria, Alexander F. Gelbukh, Md. Shad Akhtar, Erik Cambria, Asif Ekbal. (EMNLP 2018) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-02-22T11:42:25Z",
+            "owner": "SenticNet",
+            "repo": "IARM",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Modelling Context and Syntactical Features for Aspect-based Sentiment Analysis. Minh Hieu Phan, Philip O. Ogunbona. (ACL 2020) [paper]",
+          "description": "[code] - LCFS-BERT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-29T08:33:05Z",
+            "owner": "hieuvmphan",
+            "repo": "LCFS-BERT",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Position-aware Bidirectional Attention Network for Aspect-level Sentiment Analysis. Shuqin Gu, Lipeng Zhang, Yuexian Hou, Yin Song. (COLING 2018) [paper]",
+          "description": "[code] - PBAN",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-11-23T08:57:41Z",
+            "owner": "hiyouga",
+            "repo": "PBAN-PyTorch",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Syntax-Aware Aspect-Level Sentiment Classification with Proximity-Weighted Convolution Network. Chen Zhang, Qiuchi Li, Dawei Song. (SIGIR 2019) [paper]",
+          "description": "[code] - PWCN",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-21T09:34:15Z",
+            "owner": "GeneZC",
+            "repo": "PWCN",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Targeted Aspect-Based Sentiment Analysis via Embedding Commonsense Knowledge into an Attentive LSTM. Yukun Ma, Haiyun Peng, Erik Cambria. (AAAI 2018) [paper]",
+          "description": "[code] - Sentic LSTM",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-02-26T05:31:41Z",
+            "owner": "SenticNet",
+            "repo": "sentic-lstm",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Novel Aspect-Guided Deep Transition Model for Aspect Based Sentiment Analysis. Yunlong Liang, Fandong Meng, Jinchao Zhang, Jinan Xu, Yufeng Chen, Jie Zhou. (EMNLP 2019) [paper]",
+          "description": "[code] - AGDT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-12-22T08:45:17Z",
+            "owner": "XL2248",
+            "repo": "AGDT",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Attention Transfer Network for Aspect-level Sentiment Classification. Fei Zhao, Zhen Wu, Xinyu Dai. (COLING 2020) [paper]",
+          "description": "[code] - ATN",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-23T14:40:17Z",
+            "owner": "1429904852",
+            "repo": "ATN",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Modeling Inter-Aspect Dependencies for Aspect-Based Sentiment Analysis. Devamanyu Hazarika, Soujanya Poria, Prateek Vij, Gangeshwar Krishnamurthy, Erik Cambria, Roger Zimmermann. (NAACL 2018) [paper]",
+          "description": "[unofficial code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-01-14T15:59:19Z",
+            "owner": "xgy221",
+            "repo": "lstm-inter-aspect",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Content Attention Model for Aspect Based Sentiment Analysis. Qiao Liu, Haibin Zhang, Yifu Zeng, Ziqi Huang, Zufeng Wu. (WWW 2018) [paper]",
+          "description": "[code] - Cabasc",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-06-26T08:29:29Z",
+            "owner": "uestcnlp",
+            "repo": "Cabasc",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Target-Dependent Sentiment Classification With BERT. Zhengjie Gao, Ao Feng, Xinyu Song, Xi Wu. (IEEE Access Volumn 7 2019) [paper]",
+          "description": "[code] - TD-BERT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-06-06T07:28:35Z",
+            "owner": "Xiang-Pan",
+            "repo": "ABSA-PyTorch",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aspect-Level Sentiment Analysis Via Convolution over Dependency Tree. Kai Sun, Richong Zhang, Samuel Mensah, Yongyi Mao, Xudong Liu. (EMNLP 2019) [paper]",
+          "description": "[code] - CDT-ABSA",
+          "children": []
+        }
+      ],
+      "title": "Paper"
+    },
+    {
+      "description": "Combining two or more ABSA's subtasks in one framework to produce results is an intutively effective way for industrial application. There are three patterns of multi-task learning: pipeline, joint and end-to-end model. For pipeline pattern, the framework complete subtasks in more than one step, using the result of last step to guide the next step's output, which might lead to error propogation problem. Joint model processes the data with shared layers to extract universal semantic features for all subtasks. Then model outputs results of different tasks through task-specific layers. End-to-end model complete tasks like sequence labeling.",
+      "items": [],
+      "title": "Multi-task Learning & End-to-End"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Exploiting BERT for End-to-End Aspect-based Sentiment Analysis. Xin Li, Lidong Bing, Wenxuan Zhang, Wai Lam. (EMNLP 2019) [paper]",
+          "description": "[code] - BERT-E2E-ABSA",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-09T02:14:34Z",
+            "owner": "lixin4ever",
+            "repo": "BERT-E2E-ABSA",
+            "stars": 404
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Unified Model for Opinion Target Extraction and Target Sentiment Prediction. Xin Li, Lidong Bing, Piji Li, Wai Lam. (AAAI 2019) [paper]",
+          "description": "[code] - UNIFIED E2E-TBSA",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-19T09:56:26Z",
+            "owner": "lixin4ever",
+            "repo": "E2E-TBSA",
+            "stars": 270
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Knowing What, How and Why: A Near Complete Solution for Aspect-based Sentiment Analysis. Haiyun Peng, Lu Xu, Lidong Bing, Fei Huang, Wei Lu, Luo Si. (AAAI 2020) [paper]",
+          "description": "[data] - ASTE",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-07-26T09:12:25Z",
+            "owner": "xuuuluuu",
+            "repo": "SemEval-Triplet-data",
+            "stars": 167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open-Domain Targeted Sentiment Analysis via Span-Based Extraction and Classification. Minghao Hu, Yuxing Peng, Zhen Huang, Dongsheng Li, Yiwei Lv. (ACL 2019) [paper]",
+          "description": "[code] - SpanABSA",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-06-20T05:03:46Z",
+            "owner": "huminghao16",
+            "repo": "SpanABSA",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "An Interactive Multi-Task Learning Network for End-to-End Aspect-Based Sentiment Analysis. Ruidan He, Wee Sun Lee, Hwee Tou Ng, Daniel Dahlmeier. (ACL 2019) [paper]",
+          "description": "[code] - IMN-E2E-ABSA",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-06-28T11:28:43Z",
+            "owner": "ruidan",
+            "repo": "IMN-E2E-ABSA",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Transferable End-to-End Aspect-based Sentiment Analysis with Selective Adversarial Learning. Zheng Li, Xin Li, Ying Wei, Lidong Bing, Yu Zhang, Qiang Yang. (EMNLP 2019) [paper]",
+          "description": "[code] - Transferable-E2E-ABSA",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-11-21T23:09:06Z",
+            "owner": "hsqmlzno1",
+            "repo": "Transferable-E2E-ABSA",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DOER: Dual Cross-Shared RNN for Aspect Term-Polarity Co-Extraction. Huaishao Luo, Tianrui Li, Bing Liu, Junbo Zhang. (ACL 2019) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-24T22:25:20Z",
+            "owner": "ArrowLuo",
+            "repo": "DOER",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Relation-Aware Collaborative Learning for Unified Aspect-Based Sentiment Analysis. Zhuang Chen, Tieyun Qian. (ACL 2020) [paper]",
+          "description": "[code] - RACL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-02-19T17:11:02Z",
+            "owner": "NLPWM-WHU",
+            "repo": "RACL",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Explicit and Implicit Structures for Targeted Sentiment Analysis. Hao Li, Wei Lu. (EMNLP 2019) [paper]",
+          "description": "[code] - EI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-09-13T09:38:25Z",
+            "owner": "leodotnet",
+            "repo": "ei",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Aspect Extraction & Sentiment Classification"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Target-oriented Opinion Words Extraction with Target-fused Neural Sequence Labeling. Zhifang Fan, Zhen Wu, Xin-Yu Dai, Shujian Huang, Jiajun Chen. (NAACL 2019) [paper]",
+          "description": "[data] - TOWE",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-03-15T11:54:10Z",
+            "owner": "NJUNLP",
+            "repo": "TOWE",
+            "stars": 130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Latent Opinions Transfer Network for Target-Oriented Opinion Words Extraction. Latent Opinions Transfer Network for Target-Oriented Opinion Words Extraction. (AAAI 2020) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-03-15T11:54:10Z",
+            "owner": "NJUNLP",
+            "repo": "TOWE",
+            "stars": 130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Synchronous Double-channel Recurrent Network for Aspect-Opinion Pair Extraction. Shaowei Chen, Jie Liu, Yu Wang, Wenzheng Zhang, Ziming Chi. (ACL 2020) [paper]",
+          "description": "[code] - AOPE SDRN",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-08-10T15:43:30Z",
+            "owner": "NKU-IIPLab",
+            "repo": "SDRN",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Aspect-Opinion Pair Extraction"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Emotion-Cause Pair Extraction: A New Task to Emotion Analysis in Texts. Rui Xia, Zixiang Ding. (ACL 2019) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-12-23T09:20:40Z",
+            "owner": "NUSTM",
+            "repo": "ECPE",
+            "stars": 169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Effective Inter-Clause Modeling for End-to-End Emotion-Cause Pair Extraction. Penghui Wei, Jiahao Zhao, Wenji Mao. (ACL 2020) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-03-16T14:46:25Z",
+            "owner": "Determined22",
+            "repo": "Rank-Emotion-Cause",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Transition-based Directed Graph Construction for Emotion-Cause Pair Extraction. Chuang Fan, Chaofa Yuan, Jiachen Du, Lin Gui, Min Yang, Ruifeng Xu. (ACL 2020) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-05-01T14:28:07Z",
+            "owner": "HLT-HITSZ",
+            "repo": "TransECPE",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ECPE-2D: Emotion-Cause Pair Extraction based on Joint Two-Dimensional Representation, Interaction and Prediction. Zixiang Ding, Rui Xia, Jianfei Yu. (ACL 2020) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-07-06T07:46:19Z",
+            "owner": "NUSTM",
+            "repo": "ECPE-2D",
+            "stars": 28
+          }
+        }
+      ],
+      "title": "Emotion-Cause Pair Extraction"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Adaptive Recursive Neural Network for Target-dependent Twitter Sentiment Classification. Li Dong, Furu Wei, Chuanqi Tan, Duyu Tang, Ming Zhou, Ke Xu. (ACL 2014) [paper]",
+          "description": "[preprocessed data] - Twitter for ATSC",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-06-12T21:30:16Z",
+            "owner": "songyouwei",
+            "repo": "ABSA-PyTorch",
+            "stars": 2114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Challenge Dataset and Effective Models for Aspect-Based Sentiment Analysis. Qingnan Jiang, Lei Chen, Ruifeng Xu, Xiang Ao, Min Yang. (EMNLP 2019) [paper]",
+          "description": "[data] - MAMS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-11-04T08:10:21Z",
+            "owner": "siat-nlp",
+            "repo": "MAMS-for-ABSA",
+            "stars": 267
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SentiHood: Targeted Aspect Based Sentiment Analysis Dataset for Urban Neighbourhoods. Marzieh Saeidi, Guillaume Bouchard, Maria Liakata, Sebastian Riedel. (COLING 2016) [paper]",
+          "description": "[data] - LSTM-LOC",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-02-09T09:11:55Z",
+            "owner": "uclnlp",
+            "repo": "jack",
+            "stars": 260
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Target-oriented Opinion Words Extraction with Target-fused Neural Sequence Labeling. Zhifang Fan, Zhen Wu, Xin-Yu Dai, Shujian Huang, Jiajun Chen. (NAACL 2019) [paper]",
+          "description": "[data] - TOWE",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-03-15T11:54:10Z",
+            "owner": "NJUNLP",
+            "repo": "TOWE",
+            "stars": 130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tasty Burgers, Soggy Fries: Probing Aspect Robustness in Aspect-Based Sentiment Analysis. Xiaoyu Xing, Zhijing Jin, Di Jin, Bingning Wang, Qi Zhang, Xuanjing Huang. (EMNLP 2020) [paper]",
+          "description": "[data] -ARTS (Challenge set for SemEval14)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-16T17:23:22Z",
+            "owner": "zhijing-jin",
+            "repo": "ARTS_TestSet",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SemEval-2014 Task 4: Aspect Based Sentiment Analysis. Maria Pontiki, Dimitris Galanis, John Pavlopoulos, Harris Papageorgiou, Ion Androutsopoulos, Suresh Manandhar. [paper]",
+          "description": "[preprocessed data 1][preprocessed data 2] - Restaurants14 & Laptop14",
+          "children": []
+        }
+      ],
+      "title": "Dataset"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "songyouwei / ABSA-PyTorch",
+          "description": "Aspect Based Sentiment Analysis, PyTorch Implementations. 基于方面的情感分析，使用PyTorch实现",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-06-12T21:30:16Z",
+            "owner": "songyouwei",
+            "repo": "ABSA-PyTorch",
+            "stars": 2114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "haiker2011 / awesome-nlp-sentiment-analysis",
+          "description": "收集NLP领域相关的数据集、论文、开源实现，尤其是情感分析、情绪原因识别、评价对象和评价词抽取方面",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-11-06T05:47:52Z",
+            "owner": "haiker2011",
+            "repo": "awesome-nlp-sentiment-analysis",
+            "stars": 695
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jiangqn / Aspect-Based-Sentiment-Analysis",
+          "description": "A paper list for aspect based sentiment analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-03-27T16:01:26Z",
+            "owner": "jiangqn",
+            "repo": "Aspect-Based-Sentiment-Analysis",
+            "stars": 455
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AlexYangLi / ABSA_Keras",
+          "description": "Keras Implementation of Aspect based Sentiment Analysis",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-03-15T11:18:24Z",
+            "owner": "AlexYangLi",
+            "repo": "ABSA_Keras",
+            "stars": 149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NUSTM / ABSC",
+          "description": "aspect-based sentiment classification",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-11-14T03:41:21Z",
+            "owner": "NUSTM",
+            "repo": "ABSC",
+            "stars": 61
+          }
+        }
+      ],
+      "title": "Repositories/Resources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Posts"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T19:52:03.231Z",
+    "original_repository": "ZhengZixiang/ABSAPapers",
+    "original_repository_sha": "67f0231e7cc905cd2527fa6ca57ad847196c2de7",
+    "enhanced_repository": "enhansome/enhansome-ABSAPapers",
+    "enhanced_repository_description": null,
+    "title": "Awesome ABSAPapers with stars"
+  }
+}
