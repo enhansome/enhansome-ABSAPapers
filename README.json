@@ -14,7 +14,7 @@
             "last_commit": "2023-06-12T21:30:16Z",
             "owner": "songyouwei",
             "repo": "ABSA-PyTorch",
-            "stars": 2114
+            "stars": 2113
           }
         },
         {
@@ -25,7 +25,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-13T00:17:17Z",
+            "last_commit": "2026-08-14T00:17:49Z",
             "owner": "yangheng95",
             "repo": "PyABSA",
             "stars": 1101
@@ -581,7 +581,7 @@
             "last_commit": "2023-06-12T21:30:16Z",
             "owner": "songyouwei",
             "repo": "ABSA-PyTorch",
-            "stars": 2114
+            "stars": 2113
           }
         },
         {
@@ -663,7 +663,7 @@
             "last_commit": "2023-06-12T21:30:16Z",
             "owner": "songyouwei",
             "repo": "ABSA-PyTorch",
-            "stars": 2114
+            "stars": 2113
           }
         },
         {
@@ -732,7 +732,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T19:52:03.231Z",
+    "last_updated": "2026-08-14T19:42:56.819Z",
     "original_repository": "ZhengZixiang/ABSAPapers",
     "original_repository_sha": "67f0231e7cc905cd2527fa6ca57ad847196c2de7",
     "enhanced_repository": "enhansome/enhansome-ABSAPapers",
