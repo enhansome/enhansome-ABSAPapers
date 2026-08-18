@@ -25,7 +25,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-17T00:07:10Z",
+            "last_commit": "2026-08-18T00:07:31Z",
             "owner": "yangheng95",
             "repo": "PyABSA",
             "stars": 1101
@@ -732,7 +732,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T19:21:06.417Z",
+    "last_updated": "2026-08-18T19:21:31.423Z",
     "original_repository": "ZhengZixiang/ABSAPapers",
     "original_repository_sha": "67f0231e7cc905cd2527fa6ca57ad847196c2de7",
     "enhanced_repository": "enhansome/enhansome-ABSAPapers",
