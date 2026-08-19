@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 132771879,
             "language": "Python",
             "last_commit": "2023-06-12T21:30:16Z",
             "owner": "songyouwei",
@@ -24,8 +25,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 203620157,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-18T00:07:31Z",
+            "last_commit": "2026-08-19T00:07:32Z",
             "owner": "yangheng95",
             "repo": "PyABSA",
             "stars": 1101
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 177083174,
             "language": "Python",
             "last_commit": "2022-01-04T00:27:34Z",
             "owner": "HSLCY",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 172388988,
             "language": "Python",
             "last_commit": "2021-02-05T05:58:43Z",
             "owner": "howardhsu",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 204259333,
             "language": "Python",
             "last_commit": "2021-03-29T04:42:18Z",
             "owner": "GeneZC",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 226295438,
             "language": "Python",
             "last_commit": "2022-06-05T00:18:16Z",
             "owner": "yangheng95",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 198444756,
             "language": "Python",
             "last_commit": "2023-08-14T22:06:22Z",
             "owner": "deepopinion",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 131248943,
             "language": "Python",
             "last_commit": "2018-06-22T09:49:12Z",
             "owner": "ruidan",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 130666675,
             "language": null,
             "last_commit": "2018-07-22T02:42:18Z",
             "owner": "lixin4ever",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 132298101,
             "language": "Python",
             "last_commit": "2022-11-20T10:25:45Z",
             "owner": "wxue004cs",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 133915258,
             "language": "Python",
             "last_commit": "2019-06-05T05:10:39Z",
             "owner": "lpq29743",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 129665846,
             "language": "Python",
             "last_commit": "2018-10-30T16:37:43Z",
             "owner": "liufly",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 144359997,
             "language": "Python",
             "last_commit": "2019-02-22T11:42:25Z",
             "owner": "SenticNet",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 277993708,
             "language": "Python",
             "last_commit": "2023-07-29T08:33:05Z",
             "owner": "hieuvmphan",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 177273757,
             "language": "Python",
             "last_commit": "2019-11-23T08:57:41Z",
             "owner": "hiyouga",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 186545094,
             "language": "Python",
             "last_commit": "2023-11-21T09:34:15Z",
             "owner": "GeneZC",
@@ -234,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 122918072,
             "language": "Python",
             "last_commit": "2018-02-26T05:31:41Z",
             "owner": "SenticNet",
@@ -248,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 170991553,
             "language": "Python",
             "last_commit": "2019-12-22T08:45:17Z",
             "owner": "XL2248",
@@ -262,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 301942733,
             "language": "Python",
             "last_commit": "2022-08-23T14:40:17Z",
             "owner": "1429904852",
@@ -276,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 163754743,
             "language": "Python",
             "last_commit": "2019-01-14T15:59:19Z",
             "owner": "xgy221",
@@ -290,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 138705206,
             "language": "Python",
             "last_commit": "2018-06-26T08:29:29Z",
             "owner": "uestcnlp",
@@ -304,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 285566187,
             "language": "Python",
             "last_commit": "2021-06-06T07:28:35Z",
             "owner": "Xiang-Pan",
@@ -312,263 +334,278 @@
           }
         },
         {
-          "node_type": "item",
-          "title": "Aspect-Level Sentiment Analysis Via Convolution over Dependency Tree. Kai Sun, Richong Zhang, Samuel Mensah, Yongyi Mao, Xudong Liu. (EMNLP 2019) [paper]",
-          "description": "[code] - CDT-ABSA",
-          "children": []
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Exploiting BERT for End-to-End Aspect-based Sentiment Analysis. Xin Li, Lidong Bing, Wenxuan Zhang, Wai Lam. (EMNLP 2019) [paper]",
+                  "description": "[code] - BERT-E2E-ABSA",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 213635009,
+                    "language": "Python",
+                    "last_commit": "2023-07-09T02:14:34Z",
+                    "owner": "lixin4ever",
+                    "repo": "BERT-E2E-ABSA",
+                    "stars": 404
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "A Unified Model for Opinion Target Extraction and Target Sentiment Prediction. Xin Li, Lidong Bing, Piji Li, Wai Lam. (AAAI 2019) [paper]",
+                  "description": "[code] - UNIFIED E2E-TBSA",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 156958725,
+                    "language": "Python",
+                    "last_commit": "2023-10-19T09:56:26Z",
+                    "owner": "lixin4ever",
+                    "repo": "E2E-TBSA",
+                    "stars": 270
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Knowing What, How and Why: A Near Complete Solution for Aspect-based Sentiment Analysis. Haiyun Peng, Lu Xu, Lidong Bing, Fei Huang, Wei Lu, Luo Si. (AAAI 2020) [paper]",
+                  "description": "[data] - ASTE",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 222593233,
+                    "language": null,
+                    "last_commit": "2021-07-26T09:12:25Z",
+                    "owner": "xuuuluuu",
+                    "repo": "SemEval-Triplet-data",
+                    "stars": 167
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Open-Domain Targeted Sentiment Analysis via Span-Based Extraction and Classification. Minghao Hu, Yuxing Peng, Zhen Huang, Dongsheng Li, Yiwei Lv. (ACL 2019) [paper]",
+                  "description": "[code] - SpanABSA",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 189356053,
+                    "language": "Python",
+                    "last_commit": "2019-06-20T05:03:46Z",
+                    "owner": "huminghao16",
+                    "repo": "SpanABSA",
+                    "stars": 119
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "An Interactive Multi-Task Learning Network for End-to-End Aspect-Based Sentiment Analysis. Ruidan He, Wee Sun Lee, Hwee Tou Ng, Daniel Dahlmeier. (ACL 2019) [paper]",
+                  "description": "[code] - IMN-E2E-ABSA",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 189367644,
+                    "language": "Python",
+                    "last_commit": "2019-06-28T11:28:43Z",
+                    "owner": "ruidan",
+                    "repo": "IMN-E2E-ABSA",
+                    "stars": 99
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Transferable End-to-End Aspect-based Sentiment Analysis with Selective Adversarial Learning. Zheng Li, Xin Li, Ying Wei, Lidong Bing, Yu Zhang, Qiang Yang. (EMNLP 2019) [paper]",
+                  "description": "[code] - Transferable-E2E-ABSA",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 202318027,
+                    "language": "Python",
+                    "last_commit": "2019-11-21T23:09:06Z",
+                    "owner": "hsqmlzno1",
+                    "repo": "Transferable-E2E-ABSA",
+                    "stars": 64
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "DOER: Dual Cross-Shared RNN for Aspect Term-Polarity Co-Extraction. Huaishao Luo, Tianrui Li, Bing Liu, Junbo Zhang. (ACL 2019) [paper]",
+                  "description": "[code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 189216170,
+                    "language": "Python",
+                    "last_commit": "2023-03-24T22:25:20Z",
+                    "owner": "ArrowLuo",
+                    "repo": "DOER",
+                    "stars": 58
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Relation-Aware Collaborative Learning for Unified Aspect-Based Sentiment Analysis. Zhuang Chen, Tieyun Qian. (ACL 2020) [paper]",
+                  "description": "[code] - RACL",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 257324272,
+                    "language": "Python",
+                    "last_commit": "2022-02-19T17:11:02Z",
+                    "owner": "NLPWM-WHU",
+                    "repo": "RACL",
+                    "stars": 53
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Learning Explicit and Implicit Structures for Targeted Sentiment Analysis. Hao Li, Wei Lu. (EMNLP 2019) [paper]",
+                  "description": "[code] - EI",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 202499425,
+                    "language": "Python",
+                    "last_commit": "2019-09-13T09:38:25Z",
+                    "owner": "leodotnet",
+                    "repo": "ei",
+                    "stars": 8
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Aspect Extraction & Sentiment Classification"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Target-oriented Opinion Words Extraction with Target-fused Neural Sequence Labeling. Zhifang Fan, Zhen Wu, Xin-Yu Dai, Shujian Huang, Jiajun Chen. (NAACL 2019) [paper]",
+                  "description": "[data] - TOWE",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 179439811,
+                    "language": "Python",
+                    "last_commit": "2021-03-15T11:54:10Z",
+                    "owner": "NJUNLP",
+                    "repo": "TOWE",
+                    "stars": 130
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Latent Opinions Transfer Network for Target-Oriented Opinion Words Extraction. Latent Opinions Transfer Network for Target-Oriented Opinion Words Extraction. (AAAI 2020) [paper]",
+                  "description": "[code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 179439811,
+                    "language": "Python",
+                    "last_commit": "2021-03-15T11:54:10Z",
+                    "owner": "NJUNLP",
+                    "repo": "TOWE",
+                    "stars": 130
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Synchronous Double-channel Recurrent Network for Aspect-Opinion Pair Extraction. Shaowei Chen, Jie Liu, Yu Wang, Wenzheng Zhang, Ziming Chi. (ACL 2020) [paper]",
+                  "description": "[code] - AOPE SDRN",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 321960773,
+                    "language": null,
+                    "last_commit": "2020-08-10T15:43:30Z",
+                    "owner": "NKU-IIPLab",
+                    "repo": "SDRN",
+                    "stars": 12
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Aspect-Opinion Pair Extraction"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Emotion-Cause Pair Extraction: A New Task to Emotion Analysis in Texts. Rui Xia, Zixiang Ding. (ACL 2019) [paper]",
+                  "description": "[code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 189143606,
+                    "language": "Python",
+                    "last_commit": "2019-12-23T09:20:40Z",
+                    "owner": "NUSTM",
+                    "repo": "ECPE",
+                    "stars": 169
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Effective Inter-Clause Modeling for End-to-End Emotion-Cause Pair Extraction. Penghui Wei, Jiahao Zhao, Wenji Mao. (ACL 2020) [paper]",
+                  "description": "[code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 273430527,
+                    "language": "Python",
+                    "last_commit": "2022-03-16T14:46:25Z",
+                    "owner": "Determined22",
+                    "repo": "Rank-Emotion-Cause",
+                    "stars": 55
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Transition-based Directed Graph Construction for Emotion-Cause Pair Extraction. Chuang Fan, Chaofa Yuan, Jiachen Du, Lin Gui, Min Yang, Ruifeng Xu. (ACL 2020) [paper]",
+                  "description": "[code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 257934287,
+                    "language": "Python",
+                    "last_commit": "2020-05-01T14:28:07Z",
+                    "owner": "HLT-HITSZ",
+                    "repo": "TransECPE",
+                    "stars": 46
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ECPE-2D: Emotion-Cause Pair Extraction based on Joint Two-Dimensional Representation, Interaction and Prediction. Zixiang Ding, Rui Xia, Jianfei Yu. (ACL 2020) [paper]",
+                  "description": "[code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 277466031,
+                    "language": "Python",
+                    "last_commit": "2020-07-06T07:46:19Z",
+                    "owner": "NUSTM",
+                    "repo": "ECPE-2D",
+                    "stars": 28
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Emotion-Cause Pair Extraction"
+            }
+          ],
+          "description": "Combining two or more ABSA's subtasks in one framework to produce results is an intutively effective way for industrial application. There are three patterns of multi-task learning: pipeline, joint and end-to-end model. For pipeline pattern, the framework complete subtasks in more than one step, using the result of last step to guide the next step's output, which might lead to error propogation problem. Joint model processes the data with shared layers to extract universal semantic features for all subtasks. Then model outputs results of different tasks through task-specific layers. End-to-end model complete tasks like sequence labeling.",
+          "node_type": "group",
+          "title": "Multi-task Learning & End-to-End"
         }
       ],
       "title": "Paper"
     },
     {
-      "description": "Combining two or more ABSA's subtasks in one framework to produce results is an intutively effective way for industrial application. There are three patterns of multi-task learning: pipeline, joint and end-to-end model. For pipeline pattern, the framework complete subtasks in more than one step, using the result of last step to guide the next step's output, which might lead to error propogation problem. Joint model processes the data with shared layers to extract universal semantic features for all subtasks. Then model outputs results of different tasks through task-specific layers. End-to-end model complete tasks like sequence labeling.",
-      "items": [],
-      "title": "Multi-task Learning & End-to-End"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Exploiting BERT for End-to-End Aspect-based Sentiment Analysis. Xin Li, Lidong Bing, Wenxuan Zhang, Wai Lam. (EMNLP 2019) [paper]",
-          "description": "[code] - BERT-E2E-ABSA",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-07-09T02:14:34Z",
-            "owner": "lixin4ever",
-            "repo": "BERT-E2E-ABSA",
-            "stars": 404
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "A Unified Model for Opinion Target Extraction and Target Sentiment Prediction. Xin Li, Lidong Bing, Piji Li, Wai Lam. (AAAI 2019) [paper]",
-          "description": "[code] - UNIFIED E2E-TBSA",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-10-19T09:56:26Z",
-            "owner": "lixin4ever",
-            "repo": "E2E-TBSA",
-            "stars": 270
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Knowing What, How and Why: A Near Complete Solution for Aspect-based Sentiment Analysis. Haiyun Peng, Lu Xu, Lidong Bing, Fei Huang, Wei Lu, Luo Si. (AAAI 2020) [paper]",
-          "description": "[data] - ASTE",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2021-07-26T09:12:25Z",
-            "owner": "xuuuluuu",
-            "repo": "SemEval-Triplet-data",
-            "stars": 167
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Open-Domain Targeted Sentiment Analysis via Span-Based Extraction and Classification. Minghao Hu, Yuxing Peng, Zhen Huang, Dongsheng Li, Yiwei Lv. (ACL 2019) [paper]",
-          "description": "[code] - SpanABSA",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-06-20T05:03:46Z",
-            "owner": "huminghao16",
-            "repo": "SpanABSA",
-            "stars": 119
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "An Interactive Multi-Task Learning Network for End-to-End Aspect-Based Sentiment Analysis. Ruidan He, Wee Sun Lee, Hwee Tou Ng, Daniel Dahlmeier. (ACL 2019) [paper]",
-          "description": "[code] - IMN-E2E-ABSA",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-06-28T11:28:43Z",
-            "owner": "ruidan",
-            "repo": "IMN-E2E-ABSA",
-            "stars": 99
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Transferable End-to-End Aspect-based Sentiment Analysis with Selective Adversarial Learning. Zheng Li, Xin Li, Ying Wei, Lidong Bing, Yu Zhang, Qiang Yang. (EMNLP 2019) [paper]",
-          "description": "[code] - Transferable-E2E-ABSA",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-11-21T23:09:06Z",
-            "owner": "hsqmlzno1",
-            "repo": "Transferable-E2E-ABSA",
-            "stars": 64
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DOER: Dual Cross-Shared RNN for Aspect Term-Polarity Co-Extraction. Huaishao Luo, Tianrui Li, Bing Liu, Junbo Zhang. (ACL 2019) [paper]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-03-24T22:25:20Z",
-            "owner": "ArrowLuo",
-            "repo": "DOER",
-            "stars": 58
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Relation-Aware Collaborative Learning for Unified Aspect-Based Sentiment Analysis. Zhuang Chen, Tieyun Qian. (ACL 2020) [paper]",
-          "description": "[code] - RACL",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-02-19T17:11:02Z",
-            "owner": "NLPWM-WHU",
-            "repo": "RACL",
-            "stars": 53
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Learning Explicit and Implicit Structures for Targeted Sentiment Analysis. Hao Li, Wei Lu. (EMNLP 2019) [paper]",
-          "description": "[code] - EI",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-09-13T09:38:25Z",
-            "owner": "leodotnet",
-            "repo": "ei",
-            "stars": 8
-          }
-        }
-      ],
-      "title": "Aspect Extraction & Sentiment Classification"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Target-oriented Opinion Words Extraction with Target-fused Neural Sequence Labeling. Zhifang Fan, Zhen Wu, Xin-Yu Dai, Shujian Huang, Jiajun Chen. (NAACL 2019) [paper]",
-          "description": "[data] - TOWE",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-03-15T11:54:10Z",
-            "owner": "NJUNLP",
-            "repo": "TOWE",
-            "stars": 130
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Latent Opinions Transfer Network for Target-Oriented Opinion Words Extraction. Latent Opinions Transfer Network for Target-Oriented Opinion Words Extraction. (AAAI 2020) [paper]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-03-15T11:54:10Z",
-            "owner": "NJUNLP",
-            "repo": "TOWE",
-            "stars": 130
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Synchronous Double-channel Recurrent Network for Aspect-Opinion Pair Extraction. Shaowei Chen, Jie Liu, Yu Wang, Wenzheng Zhang, Ziming Chi. (ACL 2020) [paper]",
-          "description": "[code] - AOPE SDRN",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2020-08-10T15:43:30Z",
-            "owner": "NKU-IIPLab",
-            "repo": "SDRN",
-            "stars": 12
-          }
-        }
-      ],
-      "title": "Aspect-Opinion Pair Extraction"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Emotion-Cause Pair Extraction: A New Task to Emotion Analysis in Texts. Rui Xia, Zixiang Ding. (ACL 2019) [paper]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-12-23T09:20:40Z",
-            "owner": "NUSTM",
-            "repo": "ECPE",
-            "stars": 169
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Effective Inter-Clause Modeling for End-to-End Emotion-Cause Pair Extraction. Penghui Wei, Jiahao Zhao, Wenji Mao. (ACL 2020) [paper]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-03-16T14:46:25Z",
-            "owner": "Determined22",
-            "repo": "Rank-Emotion-Cause",
-            "stars": 55
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Transition-based Directed Graph Construction for Emotion-Cause Pair Extraction. Chuang Fan, Chaofa Yuan, Jiachen Du, Lin Gui, Min Yang, Ruifeng Xu. (ACL 2020) [paper]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-05-01T14:28:07Z",
-            "owner": "HLT-HITSZ",
-            "repo": "TransECPE",
-            "stars": 46
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ECPE-2D: Emotion-Cause Pair Extraction based on Joint Two-Dimensional Representation, Interaction and Prediction. Zixiang Ding, Rui Xia, Jianfei Yu. (ACL 2020) [paper]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-07-06T07:46:19Z",
-            "owner": "NUSTM",
-            "repo": "ECPE-2D",
-            "stars": 28
-          }
-        }
-      ],
-      "title": "Emotion-Cause Pair Extraction"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -577,6 +614,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 132771879,
             "language": "Python",
             "last_commit": "2023-06-12T21:30:16Z",
             "owner": "songyouwei",
@@ -591,6 +629,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 202650141,
             "language": "Python",
             "last_commit": "2019-11-04T08:10:21Z",
             "owner": "siat-nlp",
@@ -605,6 +644,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63639964,
             "language": "Python",
             "last_commit": "2019-02-09T09:11:55Z",
             "owner": "uclnlp",
@@ -619,6 +659,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 179439811,
             "language": "Python",
             "last_commit": "2021-03-15T11:54:10Z",
             "owner": "NJUNLP",
@@ -633,24 +674,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 272274974,
             "language": "Python",
             "last_commit": "2024-01-16T17:23:22Z",
             "owner": "zhijing-jin",
             "repo": "ARTS_TestSet",
             "stars": 43
           }
-        },
-        {
-          "node_type": "item",
-          "title": "SemEval-2014 Task 4: Aspect Based Sentiment Analysis. Maria Pontiki, Dimitris Galanis, John Pavlopoulos, Harris Papageorgiou, Ion Androutsopoulos, Suresh Manandhar. [paper]",
-          "description": "[preprocessed data 1][preprocessed data 2] - Restaurants14 & Laptop14",
-          "children": []
         }
       ],
       "title": "Dataset"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -659,6 +695,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 132771879,
             "language": "Python",
             "last_commit": "2023-06-12T21:30:16Z",
             "owner": "songyouwei",
@@ -673,6 +710,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 145062965,
             "language": null,
             "last_commit": "2020-11-06T05:47:52Z",
             "owner": "haiker2011",
@@ -687,6 +725,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 179968274,
             "language": null,
             "last_commit": "2024-03-27T16:01:26Z",
             "owner": "jiangqn",
@@ -701,6 +740,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 165494957,
             "language": "Python",
             "last_commit": "2020-03-15T11:18:24Z",
             "owner": "AlexYangLi",
@@ -715,6 +755,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 125958599,
             "language": "Python",
             "last_commit": "2018-11-14T03:41:21Z",
             "owner": "NUSTM",
@@ -724,16 +765,12 @@
         }
       ],
       "title": "Repositories/Resources"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Posts"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T19:21:31.423Z",
+    "last_updated": "2026-08-19T12:05:36.578Z",
     "original_repository": "ZhengZixiang/ABSAPapers",
+    "original_repository_id": 215755363,
     "original_repository_sha": "67f0231e7cc905cd2527fa6ca57ad847196c2de7",
     "enhanced_repository": "enhansome/enhansome-ABSAPapers",
     "enhanced_repository_description": null,
