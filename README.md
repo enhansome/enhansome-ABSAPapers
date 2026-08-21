@@ -21,7 +21,7 @@ Suggestions about adding papers, repositories and other resource are welcomed!
 ## Paper
 
 * **Attentional Encoder Network for Targeted Sentiment Classification**. *Youwei Song, Jiahai Wang, Tao Jiang, Zhiyue Liu, Yanghui Rao*. (CoRR 2019) [\[paper\]](https://arxiv.org/pdf/1902.09314.pdf)[\[code\]](https://github.com/songyouwei/ABSA-PyTorch/blob/master/models/aen.py) ⚠️ Archived - ***AEN-BERT***
-* **LCF: A Local Context Focus Mechanism for Aspect-Based Sentiment Classification**. *Biqing Zeng, Heng Yang 2, Ruyang Xu, Wu Zhou, Xuli Han* (Applied Sciences 2019) [\[paper\]](https://www.mdpi.com/2076-3417/9/16/3389/pdf)[\[code\]](https://github.com/yangheng95/LCF-ABSA) ⭐ 1,102 | 🐛 70 | 🌐 Jupyter Notebook | 📅 2026-08-20 - ***LCF-BERT***
+* **LCF: A Local Context Focus Mechanism for Aspect-Based Sentiment Classification**. *Biqing Zeng, Heng Yang 2, Ruyang Xu, Wu Zhou, Xuli Han* (Applied Sciences 2019) [\[paper\]](https://www.mdpi.com/2076-3417/9/16/3389/pdf)[\[code\]](https://github.com/yangheng95/LCF-ABSA) ⭐ 1,102 | 🐛 70 | 🌐 Jupyter Notebook | 📅 2026-08-21 - ***LCF-BERT***
 * **Utilizing BERT for Aspect-Based Sentiment Analysis via Constructing Auxiliary Sentence**. *Chi Sun, Luyao Huang, Xipeng Qiu*. (NAACL 2019) [\[paper\]](https://www.aclweb.org/anthology/N19-1035/)[\[code\]](https://github.com/HSLCY/ABSA-BERT-pair) ⭐ 520 | 🐛 11 | 🌐 Python | 📅 2022-01-04
 * **BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis**. *Hu Xu, Bing Liu, Lei Shu, Philip S. Yu*.  (NAACL 2019) [\[paper\]](https://www.aclweb.org/anthology/N19-1242)[\[code\]](https://github.com/howardhsu/BERT-for-RRC-ABSA) ⭐ 462 | 🐛 12 | 🌐 Python | 📅 2021-02-05 - ***BERT-PT***
 * **Aspect-based Sentiment Classification with Aspect-specific Graph Convolutional Networks**. *Chen Zhang, Qiuchi Li, Dawei Song*. (EMNLP 2019) [\[paper\]](https://arxiv.org/abs/1909.03477)[\[code\]](https://github.com/GeneZC/ASGCN) ⭐ 294 | 🐛 2 | 🌐 Python | 📅 2021-03-29 - ***ASGCN***
@@ -75,7 +75,7 @@ Combining two or more ABSA's subtasks in one framework to produce results is an 
 
 #### Aspect Extraction & Sentiment Classification
 
-* **Exploiting BERT for End-to-End Aspect-based Sentiment Analysis**. *Xin Li, Lidong Bing, Wenxuan Zhang, Wai Lam*. (EMNLP 2019) [\[paper\]](https://www.aclweb.org/anthology/D19-5505/)[\[code\]](https://github.com/lixin4ever/BERT-E2E-ABSA) ⭐ 404 | 🐛 27 | 🌐 Python | 📅 2023-07-09 - ***BERT-E2E-ABSA***
+* **Exploiting BERT for End-to-End Aspect-based Sentiment Analysis**. *Xin Li, Lidong Bing, Wenxuan Zhang, Wai Lam*. (EMNLP 2019) [\[paper\]](https://www.aclweb.org/anthology/D19-5505/)[\[code\]](https://github.com/lixin4ever/BERT-E2E-ABSA) ⭐ 403 | 🐛 27 | 🌐 Python | 📅 2023-07-09 - ***BERT-E2E-ABSA***
 * **A Unified Model for Opinion Target Extraction and Target Sentiment Prediction**. *Xin Li, Lidong Bing, Piji Li, Wai Lam*. (AAAI 2019) [\[paper\]](https://aaai.org/ojs/index.php/AAAI/article/view/4643)[\[code\]](https://github.com/lixin4ever/E2E-TBSA) ⭐ 270 | 🐛 8 | 🌐 Python | 📅 2023-10-19 - ***UNIFIED E2E-TBSA***
 * **Knowing What, How and Why: A Near Complete Solution for Aspect-based Sentiment Analysis**. *Haiyun Peng, Lu Xu, Lidong Bing, Fei Huang, Wei Lu, Luo Si*. (AAAI 2020) [\[paper\]](https://arxiv.org/abs/1911.01616)[\[data\]](https://github.com/xuuuluuu/SemEval-Triplet-data) ⭐ 167 | 🐛 2 | 📅 2021-07-26 - ***ASTE***
 * **Open-Domain Targeted Sentiment Analysis via Span-Based Extraction and Classification**. *Minghao Hu, Yuxing Peng, Zhen Huang, Dongsheng Li, Yiwei Lv*. (ACL 2019) [\[paper\]](https://arxiv.org/abs/1906.03820)[\[code\]](https://github.com/huminghao16/SpanABSA) ⭐ 119 | 🐛 7 | 🌐 Python | 📅 2019-06-20 - ***SpanABSA***
@@ -108,7 +108,7 @@ Combining two or more ABSA's subtasks in one framework to produce results is an 
 ## Dataset
 
 * **Adaptive Recursive Neural Network for Target-dependent Twitter Sentiment Classification**. *Li Dong, Furu Wei, Chuanqi Tan, Duyu Tang, Ming Zhou, Ke Xu*. (ACL 2014) [\[paper\]](https://www.aclweb.org/anthology/P14-2009)[\[preprocessed data\]](https://github.com/songyouwei/ABSA-PyTorch/tree/master/datasets/acl-14-short-data) ⚠️ Archived - ***Twitter for ATSC***
-* **A Challenge Dataset and Effective Models for Aspect-Based Sentiment Analysis**. *Qingnan Jiang, Lei Chen, Ruifeng Xu, Xiang Ao, Min Yang*. (EMNLP 2019) [\[paper\]](https://www.aclweb.org/anthology/D19-1654/)[\[data\]](https://github.com/siat-nlp/MAMS-for-ABSA) ⭐ 267 | 🐛 10 | 🌐 Python | 📅 2019-11-04 - ***MAMS***
+* **A Challenge Dataset and Effective Models for Aspect-Based Sentiment Analysis**. *Qingnan Jiang, Lei Chen, Ruifeng Xu, Xiang Ao, Min Yang*. (EMNLP 2019) [\[paper\]](https://www.aclweb.org/anthology/D19-1654/)[\[data\]](https://github.com/siat-nlp/MAMS-for-ABSA) ⭐ 268 | 🐛 10 | 🌐 Python | 📅 2019-11-04 - ***MAMS***
 * **SentiHood: Targeted Aspect Based Sentiment Analysis Dataset for Urban Neighbourhoods**. *Marzieh Saeidi, Guillaume Bouchard, Maria Liakata, Sebastian Riedel*. (COLING 2016) [\[paper\]](https://www.aclweb.org/anthology/C16-1146)[\[data\]](https://github.com/uclmr/jack/tree/master/data/sentihood) ⭐ 260 | 🐛 27 | 🌐 Python | 📅 2019-02-09 -  ***LSTM-LOC***
 * **Target-oriented Opinion Words Extraction with Target-fused Neural Sequence Labeling**. *Zhifang Fan, Zhen Wu, Xin-Yu Dai, Shujian Huang, Jiajun Chen*. (NAACL 2019) [\[paper\]](https://www.aclweb.org/anthology/N19-1259/)[\[data\]](https://github.com/NJUNLP/TOWE) ⭐ 130 | 🐛 8 | 🌐 Python | 📅 2021-03-15 - ***TOWE***
 * **Tasty Burgers, Soggy Fries: Probing Aspect Robustness in Aspect-Based Sentiment Analysis**. *Xiaoyu Xing, Zhijing Jin, Di Jin, Bingning Wang, Qi Zhang, Xuanjing Huang*. (EMNLP 2020) [\[paper\]](https://arxiv.org/pdf/2009.07964) [\[data\]](https://github.com/zhijing-jin/ARTS_TestSet) ⭐ 43 | 🐛 4 | 🌐 Python | 📅 2024-01-16 -**ARTS** (Challenge set for SemEval14)
@@ -153,4 +153,4 @@ Combining two or more ABSA's subtasks in one framework to produce results is an 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
