@@ -27,7 +27,7 @@
             "archived": false,
             "id": 203620157,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-23T00:07:43Z",
+            "last_commit": "2026-08-24T00:07:30Z",
             "owner": "yangheng95",
             "repo": "PyABSA",
             "stars": 1102
@@ -681,6 +681,28 @@
             "repo": "ARTS_TestSet",
             "stars": 43
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Emotion Corpus Construction Based on Selection from Hashtags. Minglei Li, Yunfei Long, Qin Lu, Wenjie Li. (LREC 2016) [paper]",
+              "description": "[data]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 234725290,
+                "language": "Python",
+                "last_commit": "2020-01-29T03:52:56Z",
+                "owner": "CLUEbenchmark",
+                "repo": "CLUEmotionAnalysis2020",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Normal Sentiment Analysis Dataset (Coarse-grained)"
         }
       ],
       "title": "Dataset"
@@ -768,7 +790,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T19:16:02.887Z",
+    "last_updated": "2026-08-24T14:31:16.832Z",
     "original_repository": "ZhengZixiang/ABSAPapers",
     "original_repository_id": 215755363,
     "original_repository_sha": "67f0231e7cc905cd2527fa6ca57ad847196c2de7",
