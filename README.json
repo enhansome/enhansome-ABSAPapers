@@ -27,7 +27,7 @@
             "archived": false,
             "id": 203620157,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-26T00:08:26Z",
+            "last_commit": "2026-08-27T01:20:23Z",
             "owner": "yangheng95",
             "repo": "PyABSA",
             "stars": 1102
@@ -790,9 +790,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T21:30:08.594Z",
-    "original_repository": "ZhengZixiang/ABSAPapers",
-    "original_repository_id": 215755363,
+    "last_updated": "2026-08-27T11:17:56.937Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 215755363,
+      "language": null,
+      "last_commit": "2024-03-27T15:54:06Z",
+      "owner": "ZhengZixiang",
+      "repo": "ABSAPapers",
+      "stars": 363
+    },
     "original_repository_sha": "67f0231e7cc905cd2527fa6ca57ad847196c2de7",
     "enhanced_repository": "enhansome/enhansome-ABSAPapers",
     "enhanced_repository_description": null,
