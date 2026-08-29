@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Aspect Based Sentiment Analysis, PyTorch Implementations.  基于方面的情感分析，使用PyTorch实现。",
+            "homepage": null,
             "id": 132771879,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-06-12T21:30:16Z",
+            "open_issues": 96,
             "owner": "songyouwei",
             "repo": "ABSA-PyTorch",
-            "stars": 2114
+            "stars": 2114,
+            "topics": [
+              "aspect-based-sentiment-analysis",
+              "attention",
+              "bert",
+              "natural-language-processing",
+              "nlp",
+              "sentiment-analysis",
+              "sentiment-classification"
+            ]
           },
           "first_seen": "2026-08-29T01:57:08.839Z"
         },
@@ -26,12 +39,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sentiment Analysis, Text Classification, Text Augmentation,  Text Adversarial defense, etc.; ",
+            "homepage": "https://pyabsa.readthedocs.io",
             "id": 203620157,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-08-29T00:14:39Z",
+            "open_issues": 70,
             "owner": "yangheng95",
             "repo": "PyABSA",
-            "stars": 1103
+            "stars": 1103,
+            "topics": [
+              "adversarial",
+              "aspect-based-sentiment-analysis",
+              "aspect-sentiment-triplet-extraction",
+              "aspect-term-extraction",
+              "lcf-bert",
+              "pyabsa",
+              "pytorch",
+              "regression"
+            ]
           },
           "first_seen": "2026-08-29T01:57:08.839Z"
         },
@@ -42,12 +69,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Utilizing BERT for Aspect-Based Sentiment Analysis via Constructing Auxiliary Sentence (NAACL 2019)",
+            "homepage": "https://www.aclweb.org/anthology/N19-1035",
             "id": 177083174,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-01-04T00:27:34Z",
+            "open_issues": 11,
             "owner": "HSLCY",
             "repo": "ABSA-BERT-pair",
-            "stars": 520
+            "stars": 520,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:08.839Z"
         },
@@ -58,12 +90,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "code for our NAACL 2019 paper: \"BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis\"",
+            "homepage": null,
             "id": 172388988,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2021-02-05T05:58:43Z",
+            "open_issues": 12,
             "owner": "howardhsu",
             "repo": "BERT-for-RRC-ABSA",
-            "stars": 462
+            "stars": 462,
+            "topics": [
+              "bert",
+              "reading-comprehension",
+              "sentiment-analysis"
+            ]
           },
           "first_seen": "2026-08-29T01:57:08.839Z"
         },
@@ -74,12 +115,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code and preprocessed dataset for EMNLP 2019 paper titled \"Aspect-based Sentiment Classification with Aspect-specific Graph Convolutional Networks\"",
+            "homepage": null,
             "id": 204259333,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-03-29T04:42:18Z",
+            "open_issues": 2,
             "owner": "GeneZC",
             "repo": "ASGCN",
-            "stars": 294
+            "stars": 294,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:08.839Z"
         },
@@ -90,12 +136,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "codes for paper A Multi-task Learning Model for Chinese-oriented Aspect Polarity Classification and Aspect Term Extraction",
+            "homepage": null,
             "id": 226295438,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-06-05T00:18:16Z",
+            "open_issues": 12,
             "owner": "yangheng95",
             "repo": "LCF-ATEPC",
-            "stars": 199
+            "stars": 199,
+            "topics": [
+              "aspect-based-sentiment-analysis",
+              "aspect-polarity-classification",
+              "aspect-term-extraction",
+              "chinese-sentiment-analysis",
+              "pytorch-absa"
+            ]
           },
           "first_seen": "2026-08-29T01:57:08.839Z"
         },
@@ -106,12 +163,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " code for our 2019 paper: \"Adapt or Get Left Behind: Domain Adaptation through BERT Language Model Finetuning for Aspect-Target Sentiment Classification\"",
+            "homepage": null,
             "id": 198444756,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-08-14T22:06:22Z",
+            "open_issues": 15,
             "owner": "deepopinion",
             "repo": "domain-adapted-atsc",
-            "stars": 187
+            "stars": 187,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:08.839Z"
         },
@@ -122,12 +184,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code and dataset for ACL2018 paper \"Exploiting Document Knowledge for Aspect-level Sentiment Classification\"",
+            "homepage": null,
             "id": 131248943,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2018-06-22T09:49:12Z",
+            "open_issues": 3,
             "owner": "ruidan",
             "repo": "Aspect-level-sentiment",
-            "stars": 148
+            "stars": 148,
+            "topics": [
+              "aspect-based-sentiment-analysis",
+              "knowledge-transfer"
+            ]
           },
           "first_seen": "2026-08-29T01:57:08.839Z"
         },
@@ -138,12 +208,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Transformation Networks for Target-Oriented Sentiment Classification (ACL 2018)",
+            "homepage": "https://arxiv.org/abs/1805.01086",
             "id": 130666675,
             "language": null,
+            "license": null,
             "last_commit": "2018-07-22T02:42:18Z",
+            "open_issues": 6,
             "owner": "lixin4ever",
             "repo": "TNet",
-            "stars": 139
+            "stars": 139,
+            "topics": [
+              "aspect-based-sentiment-analysis",
+              "aspect-sentiment-classification",
+              "targeted-sentiment-classification"
+            ]
           },
           "first_seen": "2026-08-29T01:57:08.839Z"
         },
@@ -154,12 +233,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 132298101,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-11-20T10:25:45Z",
+            "open_issues": 13,
             "owner": "wxue004cs",
             "repo": "GCAE",
-            "stars": 135
+            "stars": 135,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:08.839Z"
         },
@@ -170,12 +254,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A TensorFlow implementation for \"Recurrent Attention Network on Memory for Aspect Sentiment Analysis\"",
+            "homepage": null,
             "id": 133915258,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-06-05T05:10:39Z",
+            "open_issues": 1,
             "owner": "lpq29743",
             "repo": "RAM",
-            "stars": 67
+            "stars": 67,
+            "topics": [
+              "aspect-based-sentiment-analysis",
+              "sentiment-analysis"
+            ]
           },
           "first_seen": "2026-08-29T01:57:08.839Z"
         },
@@ -186,12 +278,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Recurrent Entity Networks with Delayed Memory Update for Targeted Aspect-based Sentiment Analysis, published at NAACL 2018",
+            "homepage": "http://aclweb.org/anthology/N18-2045",
             "id": 129665846,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-10-30T16:37:43Z",
+            "open_issues": 0,
             "owner": "liufly",
             "repo": "delayed-memory-update-entnet",
-            "stars": 56
+            "stars": 56,
+            "topics": [
+              "aspect-based-sentiment-analysis",
+              "naacl2018",
+              "recurrent-entity-networks",
+              "sentiment-analysis",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-29T01:57:08.839Z"
         },
@@ -202,12 +305,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IARM: Inter-Aspect Relation Modeling with Memory Networks in Aspect-Based Sentiment Analysis, EMNLP 2018",
+            "homepage": null,
             "id": 144359997,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-02-22T11:42:25Z",
+            "open_issues": 0,
             "owner": "SenticNet",
             "repo": "IARM",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "aspect-based-sentiment-analysis",
+              "aspects",
+              "lstm",
+              "sentiment-analysis"
+            ]
           },
           "first_seen": "2026-08-29T01:57:08.839Z"
         },
@@ -218,12 +331,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ACL'20] Resolving Syntactical Gap of BERT for aspect-based sentiment analysis",
+            "homepage": "https://aclanthology.org/2020.acl-main.293.pdf",
             "id": 277993708,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-07-29T08:33:05Z",
+            "open_issues": 3,
             "owner": "hieuvmphan",
             "repo": "LCFS-BERT",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "bert",
+              "syntax-boosting",
+              "transformer"
+            ]
           },
           "first_seen": "2026-08-29T01:57:08.839Z"
         },
@@ -234,12 +356,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Position-aware Bidirectional Attention Network for Aspect-level Sentiment Analysis, PyTorch implementation.",
+            "homepage": null,
             "id": 177273757,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-11-23T08:57:41Z",
+            "open_issues": 3,
             "owner": "hiyouga",
             "repo": "PBAN-PyTorch",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "aspect-based-sentiment-analysis",
+              "attention-model",
+              "deep-learning",
+              "natural-language-processing",
+              "nlp",
+              "pytorch",
+              "sentiment-analysis"
+            ]
           },
           "first_seen": "2026-08-29T01:57:08.839Z"
         },
@@ -250,12 +385,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for SIGIR 2019 paper titled \"Syntax-Aware Aspect-Level Sentiment Classification with Proximity-Weighted Convolution Network\"",
+            "homepage": null,
             "id": 186545094,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-11-21T09:34:15Z",
+            "open_issues": 1,
             "owner": "GeneZC",
             "repo": "PWCN",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:08.839Z"
         },
@@ -266,12 +406,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sentic Long Short Term Memory",
+            "homepage": null,
             "id": 122918072,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-02-26T05:31:41Z",
+            "open_issues": 4,
             "owner": "SenticNet",
             "repo": "sentic-lstm",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:08.839Z"
         },
@@ -282,12 +427,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for \"A Novel Aspect-Guided Deep Transition Model  for Aspect Based Sentiment Analysis.\" on EMNLP 2019.",
+            "homepage": null,
             "id": 170991553,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-12-22T08:45:17Z",
+            "open_issues": 0,
             "owner": "XL2248",
             "repo": "AGDT",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:08.839Z"
         },
@@ -298,12 +448,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[COLING 2020] Attention Transfer Network for Aspect-level Sentiment Classification",
+            "homepage": "https://aclanthology.org/2020.coling-main.70.pdf",
             "id": 301942733,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-08-23T14:40:17Z",
+            "open_issues": 0,
             "owner": "1429904852",
             "repo": "ATN",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:08.839Z"
         },
@@ -314,12 +469,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "论文实现 Modeling Inter-Aspect Dependencies for Aspect-Based Sentiment Analysis http://www.aclweb.org/anthology/N18-2043",
+            "homepage": null,
             "id": 163754743,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-01-14T15:59:19Z",
+            "open_issues": 0,
             "owner": "xgy221",
             "repo": "lstm-inter-aspect",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "python",
+              "sentiment-analysis",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-29T01:57:08.839Z"
         },
@@ -330,12 +494,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WWW'18 -《Content Attention Model for Aspect Based Sentiment Analysis》",
+            "homepage": null,
             "id": 138705206,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-06-26T08:29:29Z",
+            "open_issues": 2,
             "owner": "uestcnlp",
             "repo": "Cabasc",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "sentiment-analysis",
+              "www-18"
+            ]
           },
           "first_seen": "2026-08-29T01:57:08.839Z"
         },
@@ -346,12 +518,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Aspect Based Sentiment Analysis, PyTorch Implementations.  基于方面的情感分析，使用PyTorch实现。",
+            "homepage": null,
             "id": 285566187,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-06-06T07:28:35Z",
+            "open_issues": 0,
             "owner": "Xiang-Pan",
             "repo": "ABSA-PyTorch",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:08.839Z"
         },
@@ -366,12 +543,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[EMNLP 2019 Workshop] Exploiting BERT for End-to-End Aspect-based Sentiment Analysis",
+                    "homepage": "https://arxiv.org/abs/1910.00883",
                     "id": 213635009,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-07-09T02:14:34Z",
+                    "open_issues": 27,
                     "owner": "lixin4ever",
                     "repo": "BERT-E2E-ABSA",
-                    "stars": 403
+                    "stars": 403,
+                    "topics": [
+                      "aspect-based-sentiment-analysis"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:57:08.839Z"
                 },
@@ -382,12 +566,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[AAAI 2019] A Unified Model for Opinion Target Extraction and Target Sentiment Prediction",
+                    "homepage": "https://arxiv.org/abs/1811.05082",
                     "id": 156958725,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-10-19T09:56:26Z",
+                    "open_issues": 8,
                     "owner": "lixin4ever",
                     "repo": "E2E-TBSA",
-                    "stars": 270
+                    "stars": 270,
+                    "topics": [
+                      "aspect-based-sentiment-analysis",
+                      "aspect-sentiment-classification",
+                      "aspect-term-extraction",
+                      "opinion-target-extraction"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:57:08.839Z"
                 },
@@ -398,12 +592,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Aspect Sentiment Triplet Extraction (ASTE) dataset in AAAI 2020, EMNLP 2020 and ACL 2021.",
+                    "homepage": null,
                     "id": 222593233,
                     "language": null,
+                    "license": null,
                     "last_commit": "2021-07-26T09:12:25Z",
+                    "open_issues": 2,
                     "owner": "xuuuluuu",
                     "repo": "SemEval-Triplet-data",
-                    "stars": 167
+                    "stars": 167,
+                    "topics": [
+                      "absa",
+                      "aspect-based-sentiment-analysis",
+                      "aspect-sentiment-triplet-extraction",
+                      "aste"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:57:08.839Z"
                 },
@@ -414,12 +618,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Open-Domain Targeted Sentiment Analysis via Span-Based Extraction and Classification",
+                    "homepage": null,
                     "id": 189356053,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2019-06-20T05:03:46Z",
+                    "open_issues": 7,
                     "owner": "huminghao16",
                     "repo": "SpanABSA",
-                    "stars": 119
+                    "stars": 119,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:57:08.839Z"
                 },
@@ -430,12 +639,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code and dataset for ACL2019 ‘‘An Interactive Multi-Task Learning Network for End-to-End Aspect-Based Sentiment Analysis’’.",
+                    "homepage": null,
                     "id": 189367644,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2019-06-28T11:28:43Z",
+                    "open_issues": 12,
                     "owner": "ruidan",
                     "repo": "IMN-E2E-ABSA",
-                    "stars": 99
+                    "stars": 99,
+                    "topics": [
+                      "aspect-based-sentiment-analysis"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:57:08.839Z"
                 },
@@ -446,12 +662,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Transferable End-to-End Aspect-based Sentiment Analysis with Selective Adversarial Learning (EMNLP'19)",
+                    "homepage": null,
                     "id": 202318027,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2019-11-21T23:09:06Z",
+                    "open_issues": 3,
                     "owner": "hsqmlzno1",
                     "repo": "Transferable-E2E-ABSA",
-                    "stars": 64
+                    "stars": 64,
+                    "topics": [
+                      "absa",
+                      "adversarial-learning",
+                      "aspect-based-sentiment-analysis",
+                      "cross-domain-sentiment",
+                      "domain-adaptation",
+                      "sequence-labeling"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:57:08.839Z"
                 },
@@ -462,12 +690,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The implementation of ACL 2019 paper DOER: Dual Cross-Shared RNN for Aspect Term-Polarity Co-Extraction",
+                    "homepage": "https://www.aclweb.org/anthology/P19-1056",
                     "id": 189216170,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-03-24T22:25:20Z",
+                    "open_issues": 2,
                     "owner": "ArrowLuo",
                     "repo": "DOER",
-                    "stars": 58
+                    "stars": 58,
+                    "topics": [
+                      "aspect-based-sentiment-analysis",
+                      "aspect-sentiment-classification",
+                      "aspect-term-extraction",
+                      "aspect-term-polarity-co-extraction",
+                      "sentiment-analysis"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:57:08.839Z"
                 },
@@ -478,12 +717,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Zhuang Chen, Tieyun Qian: Relation-Aware Collaborative Learning for Unified Aspect-Based Sentiment Analysis. ACL 2020: 3685-3694",
+                    "homepage": null,
                     "id": 257324272,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2022-02-19T17:11:02Z",
+                    "open_issues": 5,
                     "owner": "NLPWM-WHU",
                     "repo": "RACL",
-                    "stars": 53
+                    "stars": 53,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:57:08.839Z"
                 },
@@ -494,12 +738,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 202499425,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2019-09-13T09:38:25Z",
+                    "open_issues": 0,
                     "owner": "leodotnet",
                     "repo": "ei",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:57:08.839Z"
                 }
@@ -517,12 +766,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code and data for \"Target-oriented Opinion Words Extraction with Target-fused Neural Sequence Labeling\" (NAACL2019)",
+                    "homepage": null,
                     "id": 179439811,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-03-15T11:54:10Z",
+                    "open_issues": 8,
                     "owner": "NJUNLP",
                     "repo": "TOWE",
-                    "stars": 130
+                    "stars": 130,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:57:08.839Z"
                 },
@@ -533,12 +787,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code and data for \"Target-oriented Opinion Words Extraction with Target-fused Neural Sequence Labeling\" (NAACL2019)",
+                    "homepage": null,
                     "id": 179439811,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-03-15T11:54:10Z",
+                    "open_issues": 8,
                     "owner": "NJUNLP",
                     "repo": "TOWE",
-                    "stars": 130
+                    "stars": 130,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:57:08.839Z"
                 },
@@ -549,12 +808,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Source code of the paper \"Synchronous Double-channel Recurrent Network for Aspect-Opinion Pair Extraction, ACL 2020.\"",
+                    "homepage": null,
                     "id": 321960773,
                     "language": null,
+                    "license": null,
                     "last_commit": "2020-08-10T15:43:30Z",
+                    "open_issues": 0,
                     "owner": "NKU-IIPLab",
                     "repo": "SDRN",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:57:08.839Z"
                 }
@@ -572,12 +836,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 189143606,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2019-12-23T09:20:40Z",
+                    "open_issues": 10,
                     "owner": "NUSTM",
                     "repo": "ECPE",
-                    "stars": 169
+                    "stars": 169,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:57:08.839Z"
                 },
@@ -588,12 +857,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ACL2020] Effective Inter-Clause Modeling for End-to-End Emotion-Cause Pair Extraction",
+                    "homepage": null,
                     "id": 273430527,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-03-16T14:46:25Z",
+                    "open_issues": 3,
                     "owner": "Determined22",
                     "repo": "Rank-Emotion-Cause",
-                    "stars": 55
+                    "stars": 55,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:57:08.839Z"
                 },
@@ -604,12 +878,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Transition-based Directed Graph Direction for Emotion-Cause Pair Extraction",
+                    "homepage": null,
                     "id": 257934287,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-05-01T14:28:07Z",
+                    "open_issues": 2,
                     "owner": "HLT-HITSZ",
                     "repo": "TransECPE",
-                    "stars": 46
+                    "stars": 46,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:57:08.839Z"
                 },
@@ -620,12 +899,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 277466031,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-07-06T07:46:19Z",
+                    "open_issues": 0,
                     "owner": "NUSTM",
                     "repo": "ECPE-2D",
-                    "stars": 28
+                    "stars": 28,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:57:08.839Z"
                 }
@@ -652,12 +936,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Aspect Based Sentiment Analysis, PyTorch Implementations.  基于方面的情感分析，使用PyTorch实现。",
+            "homepage": null,
             "id": 132771879,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-06-12T21:30:16Z",
+            "open_issues": 96,
             "owner": "songyouwei",
             "repo": "ABSA-PyTorch",
-            "stars": 2114
+            "stars": 2114,
+            "topics": [
+              "aspect-based-sentiment-analysis",
+              "attention",
+              "bert",
+              "natural-language-processing",
+              "nlp",
+              "sentiment-analysis",
+              "sentiment-classification"
+            ]
           },
           "first_seen": "2026-08-29T01:57:08.839Z"
         },
@@ -668,12 +965,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Multi-Aspect Multi-Sentiment Dataset for aspect-based sentiment analysis.",
+            "homepage": null,
             "id": 202650141,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2019-11-04T08:10:21Z",
+            "open_issues": 10,
             "owner": "siat-nlp",
             "repo": "MAMS-for-ABSA",
-            "stars": 268
+            "stars": 268,
+            "topics": [
+              "aspect-based-sentiment-analysis",
+              "dataset",
+              "natural-language-processing"
+            ]
           },
           "first_seen": "2026-08-29T01:57:08.839Z"
         },
@@ -684,12 +990,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jack the Reader ",
+            "homepage": null,
             "id": 63639964,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-02-09T09:11:55Z",
+            "open_issues": 27,
             "owner": "uclnlp",
             "repo": "jack",
-            "stars": 260
+            "stars": 260,
+            "topics": [
+              "deep-learning",
+              "knowledge-base",
+              "natural-language-inference",
+              "natural-language-processing",
+              "question-answering",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-29T01:57:08.839Z"
         },
@@ -700,12 +1018,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code and data for \"Target-oriented Opinion Words Extraction with Target-fused Neural Sequence Labeling\" (NAACL2019)",
+            "homepage": null,
             "id": 179439811,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-03-15T11:54:10Z",
+            "open_issues": 8,
             "owner": "NJUNLP",
             "repo": "TOWE",
-            "stars": 130
+            "stars": 130,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:08.839Z"
         },
@@ -716,12 +1039,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is our ARTS test set, an enriched test set to probe Aspect Robustness of ABSA. ",
+            "homepage": null,
             "id": 272274974,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-01-16T17:23:22Z",
+            "open_issues": 4,
             "owner": "zhijing-jin",
             "repo": "ARTS_TestSet",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:08.839Z"
         },
@@ -734,12 +1062,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CLUE Emotion Analysis Dataset 细粒度情感分析数据集",
+                "homepage": null,
                 "id": 234725290,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-01-29T03:52:56Z",
+                "open_issues": 0,
                 "owner": "CLUEbenchmark",
                 "repo": "CLUEmotionAnalysis2020",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "chinese",
+                  "corpus",
+                  "dataset",
+                  "emotion-recognition",
+                  "fine-grained",
+                  "sentiment-analysis"
+                ]
               },
               "first_seen": "2026-08-29T01:57:08.839Z"
             }
@@ -761,12 +1101,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Aspect Based Sentiment Analysis, PyTorch Implementations.  基于方面的情感分析，使用PyTorch实现。",
+            "homepage": null,
             "id": 132771879,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-06-12T21:30:16Z",
+            "open_issues": 96,
             "owner": "songyouwei",
             "repo": "ABSA-PyTorch",
-            "stars": 2114
+            "stars": 2114,
+            "topics": [
+              "aspect-based-sentiment-analysis",
+              "attention",
+              "bert",
+              "natural-language-processing",
+              "nlp",
+              "sentiment-analysis",
+              "sentiment-classification"
+            ]
           },
           "first_seen": "2026-08-29T01:57:08.839Z"
         },
@@ -777,12 +1130,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":book: 收集NLP领域相关的数据集、论文、开源实现，尤其是情感分析、情绪原因识别、评价对象和评价词抽取方面。",
+            "homepage": null,
             "id": 145062965,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2020-11-06T05:47:52Z",
+            "open_issues": 0,
             "owner": "haiker2011",
             "repo": "awesome-nlp-sentiment-analysis",
-            "stars": 694
+            "stars": 694,
+            "topics": [
+              "deep-learning",
+              "emotion-analysis",
+              "machine-learning",
+              "nlp",
+              "opinion-target-extraction",
+              "sentiment-analysis"
+            ]
           },
           "first_seen": "2026-08-29T01:57:08.839Z"
         },
@@ -793,12 +1158,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A paper list for aspect based sentiment analysis.",
+            "homepage": null,
             "id": 179968274,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-03-27T16:01:26Z",
+            "open_issues": 2,
             "owner": "jiangqn",
             "repo": "Aspect-Based-Sentiment-Analysis",
-            "stars": 455
+            "stars": 455,
+            "topics": [
+              "aspect-based-sentiment-analysis",
+              "natural-language-processing",
+              "sentiment-analysis"
+            ]
           },
           "first_seen": "2026-08-29T01:57:08.839Z"
         },
@@ -809,12 +1183,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Keras Implementation of Aspect based Sentiment Analysis",
+            "homepage": null,
             "id": 165494957,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-03-15T11:18:24Z",
+            "open_issues": 4,
             "owner": "AlexYangLi",
             "repo": "ABSA_Keras",
-            "stars": 149
+            "stars": 149,
+            "topics": [
+              "absa",
+              "atae",
+              "attention",
+              "attention-mechanism",
+              "cabasc",
+              "elmo",
+              "ian",
+              "memnet",
+              "ram",
+              "sentiment-analysis",
+              "sentiment-classification",
+              "td-lstm"
+            ]
           },
           "first_seen": "2026-08-29T01:57:08.839Z"
         },
@@ -825,12 +1217,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "aspect-based sentiment classification",
+            "homepage": null,
             "id": 125958599,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-11-14T03:41:21Z",
+            "open_issues": 5,
             "owner": "NUSTM",
             "repo": "ABSC",
-            "stars": 61
+            "stars": 61,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:08.839Z"
         }
@@ -839,15 +1236,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:57:08.839Z",
+    "last_updated": "2026-08-29T04:46:45.389Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Worth-reading papers and related awesome resources on aspect-based sentiment analysis (ABSA). 值得一读的方面级情感分析论文与相关资源集合",
+      "homepage": null,
       "id": 215755363,
       "language": null,
+      "license": null,
       "last_commit": "2024-03-27T15:54:06Z",
+      "open_issues": 5,
       "owner": "ZhengZixiang",
       "repo": "ABSAPapers",
-      "stars": 363
+      "stars": 363,
+      "topics": [
+        "absa",
+        "aspect-based-sentiment-analysis",
+        "atsc",
+        "awesome-list",
+        "natural-language-processing",
+        "paper-list",
+        "sentiment-analysis"
+      ]
     },
     "original_repository_sha": "67f0231e7cc905cd2527fa6ca57ad847196c2de7",
     "enhanced_repository": "enhansome/enhansome-ABSAPapers",
