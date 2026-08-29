@@ -16,7 +16,8 @@
             "owner": "songyouwei",
             "repo": "ABSA-PyTorch",
             "stars": 2114
-          }
+          },
+          "first_seen": "2026-08-29T01:57:08.839Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 203620157,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-27T01:20:23Z",
+            "last_commit": "2026-08-29T00:14:39Z",
             "owner": "yangheng95",
             "repo": "PyABSA",
             "stars": 1103
-          }
+          },
+          "first_seen": "2026-08-29T01:57:08.839Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "HSLCY",
             "repo": "ABSA-BERT-pair",
             "stars": 520
-          }
+          },
+          "first_seen": "2026-08-29T01:57:08.839Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "howardhsu",
             "repo": "BERT-for-RRC-ABSA",
             "stars": 462
-          }
+          },
+          "first_seen": "2026-08-29T01:57:08.839Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "GeneZC",
             "repo": "ASGCN",
             "stars": 294
-          }
+          },
+          "first_seen": "2026-08-29T01:57:08.839Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "yangheng95",
             "repo": "LCF-ATEPC",
             "stars": 199
-          }
+          },
+          "first_seen": "2026-08-29T01:57:08.839Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "deepopinion",
             "repo": "domain-adapted-atsc",
             "stars": 187
-          }
+          },
+          "first_seen": "2026-08-29T01:57:08.839Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "ruidan",
             "repo": "Aspect-level-sentiment",
             "stars": 148
-          }
+          },
+          "first_seen": "2026-08-29T01:57:08.839Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "lixin4ever",
             "repo": "TNet",
             "stars": 139
-          }
+          },
+          "first_seen": "2026-08-29T01:57:08.839Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "wxue004cs",
             "repo": "GCAE",
             "stars": 135
-          }
+          },
+          "first_seen": "2026-08-29T01:57:08.839Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "lpq29743",
             "repo": "RAM",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-29T01:57:08.839Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "liufly",
             "repo": "delayed-memory-update-entnet",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-29T01:57:08.839Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "SenticNet",
             "repo": "IARM",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-29T01:57:08.839Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "hieuvmphan",
             "repo": "LCFS-BERT",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-29T01:57:08.839Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "hiyouga",
             "repo": "PBAN-PyTorch",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-29T01:57:08.839Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "GeneZC",
             "repo": "PWCN",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-29T01:57:08.839Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "SenticNet",
             "repo": "sentic-lstm",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-29T01:57:08.839Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "XL2248",
             "repo": "AGDT",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-29T01:57:08.839Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "1429904852",
             "repo": "ATN",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-29T01:57:08.839Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "xgy221",
             "repo": "lstm-inter-aspect",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T01:57:08.839Z"
         },
         {
           "node_type": "item",
@@ -316,7 +336,8 @@
             "owner": "uestcnlp",
             "repo": "Cabasc",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T01:57:08.839Z"
         },
         {
           "node_type": "item",
@@ -331,7 +352,8 @@
             "owner": "Xiang-Pan",
             "repo": "ABSA-PyTorch",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T01:57:08.839Z"
         },
         {
           "children": [
@@ -350,7 +372,8 @@
                     "owner": "lixin4ever",
                     "repo": "BERT-E2E-ABSA",
                     "stars": 403
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:57:08.839Z"
                 },
                 {
                   "node_type": "item",
@@ -365,7 +388,8 @@
                     "owner": "lixin4ever",
                     "repo": "E2E-TBSA",
                     "stars": 270
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:57:08.839Z"
                 },
                 {
                   "node_type": "item",
@@ -380,7 +404,8 @@
                     "owner": "xuuuluuu",
                     "repo": "SemEval-Triplet-data",
                     "stars": 167
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:57:08.839Z"
                 },
                 {
                   "node_type": "item",
@@ -395,7 +420,8 @@
                     "owner": "huminghao16",
                     "repo": "SpanABSA",
                     "stars": 119
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:57:08.839Z"
                 },
                 {
                   "node_type": "item",
@@ -410,7 +436,8 @@
                     "owner": "ruidan",
                     "repo": "IMN-E2E-ABSA",
                     "stars": 99
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:57:08.839Z"
                 },
                 {
                   "node_type": "item",
@@ -425,7 +452,8 @@
                     "owner": "hsqmlzno1",
                     "repo": "Transferable-E2E-ABSA",
                     "stars": 64
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:57:08.839Z"
                 },
                 {
                   "node_type": "item",
@@ -440,7 +468,8 @@
                     "owner": "ArrowLuo",
                     "repo": "DOER",
                     "stars": 58
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:57:08.839Z"
                 },
                 {
                   "node_type": "item",
@@ -455,7 +484,8 @@
                     "owner": "NLPWM-WHU",
                     "repo": "RACL",
                     "stars": 53
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:57:08.839Z"
                 },
                 {
                   "node_type": "item",
@@ -470,7 +500,8 @@
                     "owner": "leodotnet",
                     "repo": "ei",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:57:08.839Z"
                 }
               ],
               "description": null,
@@ -492,7 +523,8 @@
                     "owner": "NJUNLP",
                     "repo": "TOWE",
                     "stars": 130
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:57:08.839Z"
                 },
                 {
                   "node_type": "item",
@@ -507,7 +539,8 @@
                     "owner": "NJUNLP",
                     "repo": "TOWE",
                     "stars": 130
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:57:08.839Z"
                 },
                 {
                   "node_type": "item",
@@ -522,7 +555,8 @@
                     "owner": "NKU-IIPLab",
                     "repo": "SDRN",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:57:08.839Z"
                 }
               ],
               "description": null,
@@ -544,7 +578,8 @@
                     "owner": "NUSTM",
                     "repo": "ECPE",
                     "stars": 169
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:57:08.839Z"
                 },
                 {
                   "node_type": "item",
@@ -559,7 +594,8 @@
                     "owner": "Determined22",
                     "repo": "Rank-Emotion-Cause",
                     "stars": 55
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:57:08.839Z"
                 },
                 {
                   "node_type": "item",
@@ -574,7 +610,8 @@
                     "owner": "HLT-HITSZ",
                     "repo": "TransECPE",
                     "stars": 46
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:57:08.839Z"
                 },
                 {
                   "node_type": "item",
@@ -589,7 +626,8 @@
                     "owner": "NUSTM",
                     "repo": "ECPE-2D",
                     "stars": 28
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:57:08.839Z"
                 }
               ],
               "description": null,
@@ -620,7 +658,8 @@
             "owner": "songyouwei",
             "repo": "ABSA-PyTorch",
             "stars": 2114
-          }
+          },
+          "first_seen": "2026-08-29T01:57:08.839Z"
         },
         {
           "node_type": "item",
@@ -635,7 +674,8 @@
             "owner": "siat-nlp",
             "repo": "MAMS-for-ABSA",
             "stars": 268
-          }
+          },
+          "first_seen": "2026-08-29T01:57:08.839Z"
         },
         {
           "node_type": "item",
@@ -650,7 +690,8 @@
             "owner": "uclnlp",
             "repo": "jack",
             "stars": 260
-          }
+          },
+          "first_seen": "2026-08-29T01:57:08.839Z"
         },
         {
           "node_type": "item",
@@ -665,7 +706,8 @@
             "owner": "NJUNLP",
             "repo": "TOWE",
             "stars": 130
-          }
+          },
+          "first_seen": "2026-08-29T01:57:08.839Z"
         },
         {
           "node_type": "item",
@@ -680,7 +722,8 @@
             "owner": "zhijing-jin",
             "repo": "ARTS_TestSet",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-29T01:57:08.839Z"
         },
         {
           "children": [
@@ -697,7 +740,8 @@
                 "owner": "CLUEbenchmark",
                 "repo": "CLUEmotionAnalysis2020",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T01:57:08.839Z"
             }
           ],
           "description": null,
@@ -723,7 +767,8 @@
             "owner": "songyouwei",
             "repo": "ABSA-PyTorch",
             "stars": 2114
-          }
+          },
+          "first_seen": "2026-08-29T01:57:08.839Z"
         },
         {
           "node_type": "item",
@@ -738,7 +783,8 @@
             "owner": "haiker2011",
             "repo": "awesome-nlp-sentiment-analysis",
             "stars": 694
-          }
+          },
+          "first_seen": "2026-08-29T01:57:08.839Z"
         },
         {
           "node_type": "item",
@@ -753,7 +799,8 @@
             "owner": "jiangqn",
             "repo": "Aspect-Based-Sentiment-Analysis",
             "stars": 455
-          }
+          },
+          "first_seen": "2026-08-29T01:57:08.839Z"
         },
         {
           "node_type": "item",
@@ -768,7 +815,8 @@
             "owner": "AlexYangLi",
             "repo": "ABSA_Keras",
             "stars": 149
-          }
+          },
+          "first_seen": "2026-08-29T01:57:08.839Z"
         },
         {
           "node_type": "item",
@@ -783,14 +831,15 @@
             "owner": "NUSTM",
             "repo": "ABSC",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-29T01:57:08.839Z"
         }
       ],
       "title": "Repositories/Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T02:23:28.565Z",
+    "last_updated": "2026-08-29T01:57:08.839Z",
     "original_repository_info": {
       "archived": false,
       "id": 215755363,
