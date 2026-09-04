@@ -21,7 +21,7 @@ Suggestions about adding papers, repositories and other resource are welcomed!
 ## Paper
 
 * **Attentional Encoder Network for Targeted Sentiment Classification**. *Youwei Song, Jiahai Wang, Tao Jiang, Zhiyue Liu, Yanghui Rao*. (CoRR 2019) [\[paper\]](https://arxiv.org/pdf/1902.09314.pdf)[\[code\]](https://github.com/songyouwei/ABSA-PyTorch/blob/master/models/aen.py) ⚠️ Archived - ***AEN-BERT***
-* **LCF: A Local Context Focus Mechanism for Aspect-Based Sentiment Classification**. *Biqing Zeng, Heng Yang 2, Ruyang Xu, Wu Zhou, Xuli Han* (Applied Sciences 2019) [\[paper\]](https://www.mdpi.com/2076-3417/9/16/3389/pdf)[\[code\]](https://github.com/yangheng95/LCF-ABSA) ⭐ 1,103 | 🐛 70 | 🌐 Jupyter Notebook | 📅 2026-09-03 - ***LCF-BERT***
+* **LCF: A Local Context Focus Mechanism for Aspect-Based Sentiment Classification**. *Biqing Zeng, Heng Yang 2, Ruyang Xu, Wu Zhou, Xuli Han* (Applied Sciences 2019) [\[paper\]](https://www.mdpi.com/2076-3417/9/16/3389/pdf)[\[code\]](https://github.com/yangheng95/LCF-ABSA) ⭐ 1,103 | 🐛 70 | 🌐 Jupyter Notebook | 📅 2026-09-04 - ***LCF-BERT***
 * **Utilizing BERT for Aspect-Based Sentiment Analysis via Constructing Auxiliary Sentence**. *Chi Sun, Luyao Huang, Xipeng Qiu*. (NAACL 2019) [\[paper\]](https://www.aclweb.org/anthology/N19-1035/)[\[code\]](https://github.com/HSLCY/ABSA-BERT-pair) ⭐ 520 | 🐛 11 | 🌐 Python | 📅 2022-01-04
 * **BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis**. *Hu Xu, Bing Liu, Lei Shu, Philip S. Yu*.  (NAACL 2019) [\[paper\]](https://www.aclweb.org/anthology/N19-1242)[\[code\]](https://github.com/howardhsu/BERT-for-RRC-ABSA) ⭐ 462 | 🐛 12 | 🌐 Python | 📅 2021-02-05 - ***BERT-PT***
 * **Aspect-based Sentiment Classification with Aspect-specific Graph Convolutional Networks**. *Chen Zhang, Qiuchi Li, Dawei Song*. (EMNLP 2019) [\[paper\]](https://arxiv.org/abs/1909.03477)[\[code\]](https://github.com/GeneZC/ASGCN) ⭐ 293 | 🐛 2 | 🌐 Python | 📅 2021-03-29 - ***ASGCN***
@@ -137,7 +137,7 @@ Combining two or more ABSA's subtasks in one framework to produce results is an 
 ## Repositories/Resources
 
 * [songyouwei / ABSA-PyTorch](https://github.com/songyouwei/ABSA-PyTorch) ⚠️ Archived - Aspect Based Sentiment Analysis, PyTorch Implementations. 基于方面的情感分析，使用PyTorch实现
-* [haiker2011 / awesome-nlp-sentiment-analysis](https://github.com/haiker2011/awesome-nlp-sentiment-analysis) ⭐ 694 | 🐛 0 | 📅 2020-11-06 - 收集NLP领域相关的数据集、论文、开源实现，尤其是情感分析、情绪原因识别、评价对象和评价词抽取方面
+* [haiker2011 / awesome-nlp-sentiment-analysis](https://github.com/haiker2011/awesome-nlp-sentiment-analysis) ⭐ 695 | 🐛 0 | 📅 2020-11-06 - 收集NLP领域相关的数据集、论文、开源实现，尤其是情感分析、情绪原因识别、评价对象和评价词抽取方面
 * [jiangqn / Aspect-Based-Sentiment-Analysis](https://github.com/jiangqn/Aspect-Based-Sentiment-Analysis) ⭐ 455 | 🐛 2 | 📅 2024-03-27 - A paper list for aspect based sentiment analysis.
 * [AlexYangLi / ABSA\_Keras](https://github.com/AlexYangLi/ABSA_Keras) ⭐ 149 | 🐛 4 | 🌐 Python | 📅 2020-03-15 - Keras Implementation of Aspect based Sentiment Analysis
 * [NUSTM / ABSC](https://github.com/NUSTM/ABSC) ⭐ 61 | 🐛 5 | 🌐 Python | 📅 2018-11-14 - aspect-based sentiment classification
@@ -153,4 +153,4 @@ Combining two or more ABSA's subtasks in one framework to produce results is an 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
