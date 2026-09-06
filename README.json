@@ -44,11 +44,11 @@
             "id": 203620157,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-09-05T00:15:28Z",
+            "last_commit": "2026-09-06T00:17:50Z",
             "open_issues": 70,
             "owner": "yangheng95",
             "repo": "PyABSA",
-            "stars": 1103,
+            "stars": 1104,
             "topics": [
               "adversarial",
               "aspect-based-sentiment-analysis",
@@ -78,7 +78,7 @@
             "open_issues": 11,
             "owner": "HSLCY",
             "repo": "ABSA-BERT-pair",
-            "stars": 520,
+            "stars": 519,
             "topics": []
           },
           "first_seen": "2026-08-29T01:57:08.839Z"
@@ -552,7 +552,7 @@
                     "open_issues": 27,
                     "owner": "lixin4ever",
                     "repo": "BERT-E2E-ABSA",
-                    "stars": 403,
+                    "stars": 402,
                     "topics": [
                       "aspect-based-sentiment-analysis"
                     ]
@@ -1236,7 +1236,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T20:50:26.740Z",
+    "last_updated": "2026-09-06T20:57:53.203Z",
     "original_repository_info": {
       "archived": false,
       "description": "Worth-reading papers and related awesome resources on aspect-based sentiment analysis (ABSA). 值得一读的方面级情感分析论文与相关资源集合",
