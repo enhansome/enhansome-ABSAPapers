@@ -44,11 +44,11 @@
             "id": 203620157,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-09-07T00:17:25Z",
+            "last_commit": "2026-09-08T00:16:17Z",
             "open_issues": 70,
             "owner": "yangheng95",
             "repo": "PyABSA",
-            "stars": 1104,
+            "stars": 1103,
             "topics": [
               "adversarial",
               "aspect-based-sentiment-analysis",
@@ -78,7 +78,7 @@
             "open_issues": 11,
             "owner": "HSLCY",
             "repo": "ABSA-BERT-pair",
-            "stars": 519,
+            "stars": 518,
             "topics": []
           },
           "first_seen": "2026-08-29T01:57:08.839Z"
@@ -99,7 +99,7 @@
             "open_issues": 12,
             "owner": "howardhsu",
             "repo": "BERT-for-RRC-ABSA",
-            "stars": 462,
+            "stars": 461,
             "topics": [
               "bert",
               "reading-comprehension",
@@ -145,7 +145,7 @@
             "open_issues": 12,
             "owner": "yangheng95",
             "repo": "LCF-ATEPC",
-            "stars": 199,
+            "stars": 198,
             "topics": [
               "aspect-based-sentiment-analysis",
               "aspect-polarity-classification",
@@ -552,7 +552,7 @@
                     "open_issues": 27,
                     "owner": "lixin4ever",
                     "repo": "BERT-E2E-ABSA",
-                    "stars": 402,
+                    "stars": 401,
                     "topics": [
                       "aspect-based-sentiment-analysis"
                     ]
@@ -1236,7 +1236,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T21:51:32.474Z",
+    "last_updated": "2026-09-08T21:31:18.605Z",
     "original_repository_info": {
       "archived": false,
       "description": "Worth-reading papers and related awesome resources on aspect-based sentiment analysis (ABSA). 值得一读的方面级情感分析论文与相关资源集合",
@@ -1248,7 +1248,7 @@
       "open_issues": 5,
       "owner": "ZhengZixiang",
       "repo": "ABSAPapers",
-      "stars": 363,
+      "stars": 362,
       "topics": [
         "absa",
         "aspect-based-sentiment-analysis",
