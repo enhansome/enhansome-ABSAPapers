@@ -21,7 +21,7 @@ Suggestions about adding papers, repositories and other resource are welcomed!
 ## Paper
 
 * **Attentional Encoder Network for Targeted Sentiment Classification**. *Youwei Song, Jiahai Wang, Tao Jiang, Zhiyue Liu, Yanghui Rao*. (CoRR 2019) [\[paper\]](https://arxiv.org/pdf/1902.09314.pdf)[\[code\]](https://github.com/songyouwei/ABSA-PyTorch/blob/master/models/aen.py) ⚠️ Archived - ***AEN-BERT***
-* **LCF: A Local Context Focus Mechanism for Aspect-Based Sentiment Classification**. *Biqing Zeng, Heng Yang 2, Ruyang Xu, Wu Zhou, Xuli Han* (Applied Sciences 2019) [\[paper\]](https://www.mdpi.com/2076-3417/9/16/3389/pdf)[\[code\]](https://github.com/yangheng95/LCF-ABSA) ⭐ 1,103 | 🐛 70 | 🌐 Jupyter Notebook | 📅 2026-09-08 - ***LCF-BERT***
+* **LCF: A Local Context Focus Mechanism for Aspect-Based Sentiment Classification**. *Biqing Zeng, Heng Yang 2, Ruyang Xu, Wu Zhou, Xuli Han* (Applied Sciences 2019) [\[paper\]](https://www.mdpi.com/2076-3417/9/16/3389/pdf)[\[code\]](https://github.com/yangheng95/LCF-ABSA) ⭐ 1,103 | 🐛 70 | 🌐 Jupyter Notebook | 📅 2026-09-09 - ***LCF-BERT***
 * **Utilizing BERT for Aspect-Based Sentiment Analysis via Constructing Auxiliary Sentence**. *Chi Sun, Luyao Huang, Xipeng Qiu*. (NAACL 2019) [\[paper\]](https://www.aclweb.org/anthology/N19-1035/)[\[code\]](https://github.com/HSLCY/ABSA-BERT-pair) ⭐ 518 | 🐛 11 | 🌐 Python | 📅 2022-01-04
 * **BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis**. *Hu Xu, Bing Liu, Lei Shu, Philip S. Yu*.  (NAACL 2019) [\[paper\]](https://www.aclweb.org/anthology/N19-1242)[\[code\]](https://github.com/howardhsu/BERT-for-RRC-ABSA) ⭐ 461 | 🐛 12 | 🌐 Python | 📅 2021-02-05 - ***BERT-PT***
 * **Aspect-based Sentiment Classification with Aspect-specific Graph Convolutional Networks**. *Chen Zhang, Qiuchi Li, Dawei Song*. (EMNLP 2019) [\[paper\]](https://arxiv.org/abs/1909.03477)[\[code\]](https://github.com/GeneZC/ASGCN) ⭐ 293 | 🐛 2 | 🌐 Python | 📅 2021-03-29 - ***ASGCN***
@@ -77,7 +77,7 @@ Combining two or more ABSA's subtasks in one framework to produce results is an 
 
 * **Exploiting BERT for End-to-End Aspect-based Sentiment Analysis**. *Xin Li, Lidong Bing, Wenxuan Zhang, Wai Lam*. (EMNLP 2019) [\[paper\]](https://www.aclweb.org/anthology/D19-5505/)[\[code\]](https://github.com/lixin4ever/BERT-E2E-ABSA) ⭐ 401 | 🐛 27 | 🌐 Python | 📅 2023-07-09 - ***BERT-E2E-ABSA***
 * **A Unified Model for Opinion Target Extraction and Target Sentiment Prediction**. *Xin Li, Lidong Bing, Piji Li, Wai Lam*. (AAAI 2019) [\[paper\]](https://aaai.org/ojs/index.php/AAAI/article/view/4643)[\[code\]](https://github.com/lixin4ever/E2E-TBSA) ⭐ 270 | 🐛 8 | 🌐 Python | 📅 2023-10-19 - ***UNIFIED E2E-TBSA***
-* **Knowing What, How and Why: A Near Complete Solution for Aspect-based Sentiment Analysis**. *Haiyun Peng, Lu Xu, Lidong Bing, Fei Huang, Wei Lu, Luo Si*. (AAAI 2020) [\[paper\]](https://arxiv.org/abs/1911.01616)[\[data\]](https://github.com/xuuuluuu/SemEval-Triplet-data) ⭐ 167 | 🐛 2 | 📅 2021-07-26 - ***ASTE***
+* **Knowing What, How and Why: A Near Complete Solution for Aspect-based Sentiment Analysis**. *Haiyun Peng, Lu Xu, Lidong Bing, Fei Huang, Wei Lu, Luo Si*. (AAAI 2020) [\[paper\]](https://arxiv.org/abs/1911.01616)[\[data\]](https://github.com/xuuuluuu/SemEval-Triplet-data) ⭐ 166 | 🐛 2 | 📅 2021-07-26 - ***ASTE***
 * **Open-Domain Targeted Sentiment Analysis via Span-Based Extraction and Classification**. *Minghao Hu, Yuxing Peng, Zhen Huang, Dongsheng Li, Yiwei Lv*. (ACL 2019) [\[paper\]](https://arxiv.org/abs/1906.03820)[\[code\]](https://github.com/huminghao16/SpanABSA) ⭐ 119 | 🐛 7 | 🌐 Python | 📅 2019-06-20 - ***SpanABSA***
 * **An Interactive Multi-Task Learning Network for End-to-End Aspect-Based Sentiment Analysis**. *Ruidan He, Wee Sun Lee, Hwee Tou Ng, Daniel Dahlmeier*. (ACL 2019) [\[paper\]](https://arxiv.org/abs/1906.06906)[\[code\]](https://github.com/ruidan/IMN-E2E-ABSA) ⭐ 99 | 🐛 12 | 🌐 Python | 📅 2019-06-28 - ***IMN-E2E-ABSA***
 * **Transferable End-to-End Aspect-based Sentiment Analysis with Selective Adversarial Learning**. *Zheng Li, Xin Li, Ying Wei, Lidong Bing, Yu Zhang, Qiang Yang*. (EMNLP 2019) [\[paper\]](https://www.aclweb.org/anthology/D19-1466/)[\[code\]](https://github.com/hsqmlzno1/Transferable-E2E-ABSA) ⭐ 64 | 🐛 3 | 🌐 Python | 📅 2019-11-21 - ***Transferable-E2E-ABSA***
@@ -153,4 +153,4 @@ Combining two or more ABSA's subtasks in one framework to produce results is an 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
