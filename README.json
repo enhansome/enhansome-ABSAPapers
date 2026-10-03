@@ -44,7 +44,7 @@
             "id": 203620157,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-10-02T00:17:39Z",
+            "last_commit": "2026-10-03T00:16:05Z",
             "open_issues": 70,
             "owner": "yangheng95",
             "repo": "PyABSA",
@@ -65,7 +65,7 @@
         {
           "node_type": "item",
           "title": "Utilizing BERT for Aspect-Based Sentiment Analysis via Constructing Auxiliary Sentence. Chi Sun, Luyao Huang, Xipeng Qiu. (NAACL 2019) [paper]",
-          "description": "[code]",
+          "description": "HSLCY/ABSA-BERT-pair",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -180,7 +180,7 @@
         {
           "node_type": "item",
           "title": "Exploiting Document Knowledge for Aspect-level Sentiment Classification. Ruidan He, Wee Sun Lee, Hwee Tou Ng, Daniel Dahlmeier. (ACL 2018) [paper]",
-          "description": "[code]",
+          "description": "ruidan/Aspect-level-sentiment",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -274,7 +274,7 @@
         {
           "node_type": "item",
           "title": "Recurrent Entity Networks with Delayed Memory Update for Targeted Aspect-Based Sentiment Analysis. Fei Liu, Trevor Cohn, Timothy Baldwin. (NAACL 2018) [paper]",
-          "description": "[code]",
+          "description": "liufly/delayed-memory-update-entnet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -301,7 +301,7 @@
         {
           "node_type": "item",
           "title": "IARM: Inter-Aspect Relation Modeling with Memory Networks in Aspect-Based Sentiment Analysis. Navonil Majumder, Soujanya Poria, Alexander F. Gelbukh, Md. Shad Akhtar, Erik Cambria, Asif Ekbal. (EMNLP 2018) [paper]",
-          "description": "[code]",
+          "description": "SenticNet/IARM",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -686,7 +686,7 @@
                 {
                   "node_type": "item",
                   "title": "DOER: Dual Cross-Shared RNN for Aspect Term-Polarity Co-Extraction. Huaishao Luo, Tianrui Li, Bing Liu, Junbo Zhang. (ACL 2019) [paper]",
-                  "description": "[code]",
+                  "description": "ArrowLuo/DOER",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -783,7 +783,7 @@
                 {
                   "node_type": "item",
                   "title": "Latent Opinions Transfer Network for Target-Oriented Opinion Words Extraction. Latent Opinions Transfer Network for Target-Oriented Opinion Words Extraction. (AAAI 2020) [paper]",
-                  "description": "[code]",
+                  "description": "NJUNLP/TOWE",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -832,7 +832,7 @@
                 {
                   "node_type": "item",
                   "title": "Emotion-Cause Pair Extraction: A New Task to Emotion Analysis in Texts. Rui Xia, Zixiang Ding. (ACL 2019) [paper]",
-                  "description": "[code]",
+                  "description": "NUSTM/ECPE",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -853,7 +853,7 @@
                 {
                   "node_type": "item",
                   "title": "Effective Inter-Clause Modeling for End-to-End Emotion-Cause Pair Extraction. Penghui Wei, Jiahao Zhao, Wenji Mao. (ACL 2020) [paper]",
-                  "description": "[code]",
+                  "description": "Determined22/Rank-Emotion-Cause",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -874,7 +874,7 @@
                 {
                   "node_type": "item",
                   "title": "Transition-based Directed Graph Construction for Emotion-Cause Pair Extraction. Chuang Fan, Chaofa Yuan, Jiachen Du, Lin Gui, Min Yang, Ruifeng Xu. (ACL 2020) [paper]",
-                  "description": "[code]",
+                  "description": "HLT-HITSZ/TransECPE",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -895,7 +895,7 @@
                 {
                   "node_type": "item",
                   "title": "ECPE-2D: Emotion-Cause Pair Extraction based on Joint Two-Dimensional Representation, Interaction and Prediction. Zixiang Ding, Rui Xia, Jianfei Yu. (ACL 2020) [paper]",
-                  "description": "[code]",
+                  "description": "NUSTM/ECPE-2D",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1058,7 +1058,7 @@
             {
               "node_type": "item",
               "title": "Emotion Corpus Construction Based on Selection from Hashtags. Minglei Li, Yunfei Long, Qin Lu, Wenjie Li. (LREC 2016) [paper]",
-              "description": "[data]",
+              "description": "CLUEbenchmark/CLUEmotionAnalysis2020",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1236,7 +1236,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T22:42:28.226Z",
+    "last_updated": "2026-10-03T04:21:21.089Z",
     "original_repository_info": {
       "archived": false,
       "description": "Worth-reading papers and related awesome resources on aspect-based sentiment analysis (ABSA). 值得一读的方面级情感分析论文与相关资源集合",
