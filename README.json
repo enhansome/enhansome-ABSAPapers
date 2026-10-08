@@ -44,7 +44,7 @@
             "id": 203620157,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-10-07T00:18:54Z",
+            "last_commit": "2026-10-08T00:16:37Z",
             "open_issues": 70,
             "owner": "yangheng95",
             "repo": "PyABSA",
@@ -1167,7 +1167,7 @@
             "open_issues": 2,
             "owner": "jiangqn",
             "repo": "Aspect-Based-Sentiment-Analysis",
-            "stars": 456,
+            "stars": 457,
             "topics": [
               "aspect-based-sentiment-analysis",
               "natural-language-processing",
@@ -1236,7 +1236,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T23:24:11.688Z",
+    "last_updated": "2026-10-08T23:36:24.419Z",
     "original_repository_info": {
       "archived": false,
       "description": "Worth-reading papers and related awesome resources on aspect-based sentiment analysis (ABSA). 值得一读的方面级情感分析论文与相关资源集合",
