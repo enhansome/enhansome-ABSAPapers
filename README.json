@@ -575,7 +575,7 @@
                     "open_issues": 8,
                     "owner": "lixin4ever",
                     "repo": "E2E-TBSA",
-                    "stars": 270,
+                    "stars": 271,
                     "topics": [
                       "aspect-based-sentiment-analysis",
                       "aspect-sentiment-classification",
@@ -1236,7 +1236,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T01:02:11.459Z",
+    "last_updated": "2026-10-13T23:09:59.244Z",
     "original_repository_info": {
       "archived": false,
       "description": "Worth-reading papers and related awesome resources on aspect-based sentiment analysis (ABSA). 值得一读的方面级情感分析论文与相关资源集合",
@@ -1248,7 +1248,7 @@
       "open_issues": 5,
       "owner": "ZhengZixiang",
       "repo": "ABSAPapers",
-      "stars": 362,
+      "stars": 363,
       "topics": [
         "absa",
         "aspect-based-sentiment-analysis",
