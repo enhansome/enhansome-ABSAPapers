@@ -19,7 +19,7 @@
             "open_issues": 96,
             "owner": "songyouwei",
             "repo": "ABSA-PyTorch",
-            "stars": 2115,
+            "stars": 2114,
             "topics": [
               "aspect-based-sentiment-analysis",
               "attention",
@@ -44,7 +44,7 @@
             "id": 203620157,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-10-18T00:16:09Z",
+            "last_commit": "2026-10-19T00:16:06Z",
             "open_issues": 70,
             "owner": "yangheng95",
             "repo": "PyABSA",
@@ -945,7 +945,7 @@
             "open_issues": 96,
             "owner": "songyouwei",
             "repo": "ABSA-PyTorch",
-            "stars": 2115,
+            "stars": 2114,
             "topics": [
               "aspect-based-sentiment-analysis",
               "attention",
@@ -1110,7 +1110,7 @@
             "open_issues": 96,
             "owner": "songyouwei",
             "repo": "ABSA-PyTorch",
-            "stars": 2115,
+            "stars": 2114,
             "topics": [
               "aspect-based-sentiment-analysis",
               "attention",
@@ -1236,7 +1236,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T21:11:44.282Z",
+    "last_updated": "2026-10-19T22:41:45.389Z",
     "original_repository_info": {
       "archived": false,
       "description": "Worth-reading papers and related awesome resources on aspect-based sentiment analysis (ABSA). 值得一读的方面级情感分析论文与相关资源集合",
