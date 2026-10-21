@@ -44,7 +44,7 @@
             "id": 203620157,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-10-20T00:14:59Z",
+            "last_commit": "2026-10-21T00:14:13Z",
             "open_issues": 70,
             "owner": "yangheng95",
             "repo": "PyABSA",
@@ -1236,7 +1236,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T21:59:52.224Z",
+    "last_updated": "2026-10-21T22:02:32.487Z",
     "original_repository_info": {
       "archived": false,
       "description": "Worth-reading papers and related awesome resources on aspect-based sentiment analysis (ABSA). 值得一读的方面级情感分析论文与相关资源集合",
