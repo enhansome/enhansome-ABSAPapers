@@ -44,7 +44,7 @@
             "id": 203620157,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-10-22T00:13:59Z",
+            "last_commit": "2026-10-23T00:15:18Z",
             "open_issues": 70,
             "owner": "yangheng95",
             "repo": "PyABSA",
@@ -1139,7 +1139,7 @@
             "open_issues": 0,
             "owner": "haiker2011",
             "repo": "awesome-nlp-sentiment-analysis",
-            "stars": 696,
+            "stars": 697,
             "topics": [
               "deep-learning",
               "emotion-analysis",
@@ -1236,7 +1236,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T21:59:58.103Z",
+    "last_updated": "2026-10-23T21:46:48.462Z",
     "original_repository_info": {
       "archived": false,
       "description": "Worth-reading papers and related awesome resources on aspect-based sentiment analysis (ABSA). 值得一读的方面级情感分析论文与相关资源集合",
