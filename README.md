@@ -21,7 +21,7 @@ Suggestions about adding papers, repositories and other resource are welcomed!
 ## Paper
 
 * **Attentional Encoder Network for Targeted Sentiment Classification**. *Youwei Song, Jiahai Wang, Tao Jiang, Zhiyue Liu, Yanghui Rao*. (CoRR 2019) [\[paper\]](https://arxiv.org/pdf/1902.09314.pdf)[\[code\]](https://github.com/songyouwei/ABSA-PyTorch/blob/master/models/aen.py) ⚠️ Archived - ***AEN-BERT***
-* **LCF: A Local Context Focus Mechanism for Aspect-Based Sentiment Classification**. *Biqing Zeng, Heng Yang 2, Ruyang Xu, Wu Zhou, Xuli Han* (Applied Sciences 2019) [\[paper\]](https://www.mdpi.com/2076-3417/9/16/3389/pdf)[\[code\]](https://github.com/yangheng95/LCF-ABSA) ⭐ 1,105 | 🐛 70 | 🌐 Jupyter Notebook | 📅 2026-10-23 - ***LCF-BERT***
+* **LCF: A Local Context Focus Mechanism for Aspect-Based Sentiment Classification**. *Biqing Zeng, Heng Yang 2, Ruyang Xu, Wu Zhou, Xuli Han* (Applied Sciences 2019) [\[paper\]](https://www.mdpi.com/2076-3417/9/16/3389/pdf)[\[code\]](https://github.com/yangheng95/LCF-ABSA) ⭐ 1,105 | 🐛 70 | 🌐 Jupyter Notebook | 📅 2026-10-24 - ***LCF-BERT***
 * **Utilizing BERT for Aspect-Based Sentiment Analysis via Constructing Auxiliary Sentence**. *Chi Sun, Luyao Huang, Xipeng Qiu*. (NAACL 2019) [\[paper\]](https://www.aclweb.org/anthology/N19-1035/)[\[code\]](https://github.com/HSLCY/ABSA-BERT-pair) ⭐ 519 | 🐛 11 | 🌐 Python | 📅 2022-01-04
 * **BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis**. *Hu Xu, Bing Liu, Lei Shu, Philip S. Yu*.  (NAACL 2019) [\[paper\]](https://www.aclweb.org/anthology/N19-1242)[\[code\]](https://github.com/howardhsu/BERT-for-RRC-ABSA) ⭐ 461 | 🐛 12 | 🌐 Python | 📅 2021-02-05 - ***BERT-PT***
 * **Aspect-based Sentiment Classification with Aspect-specific Graph Convolutional Networks**. *Chen Zhang, Qiuchi Li, Dawei Song*. (EMNLP 2019) [\[paper\]](https://arxiv.org/abs/1909.03477)[\[code\]](https://github.com/GeneZC/ASGCN) ⭐ 293 | 🐛 2 | 🌐 Python | 📅 2021-03-29 - ***ASGCN***
@@ -100,7 +100,7 @@ Combining two or more ABSA's subtasks in one framework to produce results is an 
 
 #### Emotion-Cause Pair Extraction
 
-* **Emotion-Cause Pair Extraction: A New Task to Emotion Analysis in Texts**. *Rui Xia, Zixiang Ding*. (ACL 2019) [\[paper\]](https://arxiv.org/abs/1906.01267)[\[code\]](https://github.com/NUSTM/ECPE) ⭐ 169 | 🐛 10 | 🌐 Python | 📅 2019-12-23
+* **Emotion-Cause Pair Extraction: A New Task to Emotion Analysis in Texts**. *Rui Xia, Zixiang Ding*. (ACL 2019) [\[paper\]](https://arxiv.org/abs/1906.01267)[\[code\]](https://github.com/NUSTM/ECPE) ⭐ 170 | 🐛 10 | 🌐 Python | 📅 2019-12-23
 * **Effective Inter-Clause Modeling for End-to-End Emotion-Cause Pair Extraction**. *Penghui Wei, Jiahao Zhao, Wenji Mao*. (ACL 2020) [\[paper\]](https://www.aclweb.org/anthology/2020.acl-main.289/)[\[code\]](https://github.com/Determined22/Rank-Emotion-Cause) ⭐ 55 | 🐛 3 | 🌐 Python | 📅 2022-03-16
 * **Transition-based Directed Graph Construction for Emotion-Cause Pair Extraction**. *Chuang Fan, Chaofa Yuan, Jiachen Du, Lin Gui, Min Yang, Ruifeng Xu*. (ACL 2020) [\[paper\]](https://www.aclweb.org/anthology/2020.acl-main.342/)[\[code\]](https://github.com/HLT-HITSZ/TransECPE) ⭐ 46 | 🐛 2 | 🌐 Python | 📅 2020-05-01
 * **ECPE-2D: Emotion-Cause Pair Extraction based on Joint Two-Dimensional Representation, Interaction and Prediction**. *Zixiang Ding, Rui Xia, Jianfei Yu*. (ACL 2020) [\[paper\]](https://www.aclweb.org/anthology/2020.acl-main.288/)[\[code\]](https://github.com/NUSTM/ECPE-2D) ⭐ 28 | 🐛 0 | 🌐 Python | 📅 2020-07-06
@@ -153,4 +153,4 @@ Combining two or more ABSA's subtasks in one framework to produce results is an 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
