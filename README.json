@@ -19,7 +19,7 @@
             "open_issues": 96,
             "owner": "songyouwei",
             "repo": "ABSA-PyTorch",
-            "stars": 2113,
+            "stars": 2112,
             "topics": [
               "aspect-based-sentiment-analysis",
               "attention",
@@ -44,11 +44,11 @@
             "id": 203620157,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-11-19T00:09:53Z",
+            "last_commit": "2026-11-20T00:08:43Z",
             "open_issues": 70,
             "owner": "yangheng95",
             "repo": "PyABSA",
-            "stars": 1106,
+            "stars": 1103,
             "topics": [
               "adversarial",
               "aspect-based-sentiment-analysis",
@@ -99,7 +99,7 @@
             "open_issues": 12,
             "owner": "howardhsu",
             "repo": "BERT-for-RRC-ABSA",
-            "stars": 462,
+            "stars": 461,
             "topics": [
               "bert",
               "reading-comprehension",
@@ -552,7 +552,7 @@
                     "open_issues": 27,
                     "owner": "lixin4ever",
                     "repo": "BERT-E2E-ABSA",
-                    "stars": 402,
+                    "stars": 401,
                     "topics": [
                       "aspect-based-sentiment-analysis"
                     ]
@@ -575,7 +575,7 @@
                     "open_issues": 8,
                     "owner": "lixin4ever",
                     "repo": "E2E-TBSA",
-                    "stars": 271,
+                    "stars": 270,
                     "topics": [
                       "aspect-based-sentiment-analysis",
                       "aspect-sentiment-classification",
@@ -945,7 +945,7 @@
             "open_issues": 96,
             "owner": "songyouwei",
             "repo": "ABSA-PyTorch",
-            "stars": 2113,
+            "stars": 2112,
             "topics": [
               "aspect-based-sentiment-analysis",
               "attention",
@@ -1110,7 +1110,7 @@
             "open_issues": 96,
             "owner": "songyouwei",
             "repo": "ABSA-PyTorch",
-            "stars": 2113,
+            "stars": 2112,
             "topics": [
               "aspect-based-sentiment-analysis",
               "attention",
@@ -1236,7 +1236,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T00:50:54.547Z",
+    "last_updated": "2026-11-20T00:58:35.023Z",
     "original_repository_info": {
       "archived": false,
       "description": "Worth-reading papers and related awesome resources on aspect-based sentiment analysis (ABSA). 值得一读的方面级情感分析论文与相关资源集合",
